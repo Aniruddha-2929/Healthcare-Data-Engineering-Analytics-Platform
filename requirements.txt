@@ -1,0 +1,6 @@
+pandas
+mysql-connector-python
+sqlalchemy
+pyspark
+boto3
+python-dotenv
