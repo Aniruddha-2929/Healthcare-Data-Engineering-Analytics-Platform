@@ -1,0 +1,1001 @@
+doctor_id,total_visits,unique_patients,name,specialization,hospital
+D2458,48,48,Lopa Barad,Cardiologist,Sahyadri
+D2096,57,57,Nirja Butala,Dermatologist,Ruby Hall
+D2858,53,52,Eshana Seshadri,Neurologist,Deenanath
+D2828,42,42,Vedhika Chandra,Cardiologist,Sahyadri
+D2382,55,55,Noah Oak,General Physician,Apollo
+D2349,45,45,Yatan Hans,Dermatologist,Deenanath
+D2133,49,48,Kamala Soman,Dermatologist,Ruby Hall
+D2648,48,48,Frederick Lanka,General Physician,Manipal
+D2347,51,51,Bakhshi Pai,Radiologist,Sahyadri
+D2990,53,53,Anirudh De,Radiologist,Deenanath
+D2970,38,38,Qabil Sachdeva,Dermatologist,Deenanath
+D2978,56,56,Om Parikh,Orthopedic,Manipal
+D2281,53,53,Rayaan Som,Orthopedic,Manipal
+D2256,46,46,Farhan Tak,General Physician,Fortis
+D2571,54,54,Dev Natarajan,Neurologist,Manipal
+D2273,51,51,Forum Iyer,Cardiologist,Fortis
+D2940,45,45,Yadavi Mistry,Neurologist,Fortis
+D2284,47,47,Anmol Jhaveri,General Physician,Sahyadri
+D2065,53,53,Peter Pau,General Physician,Sahyadri
+D2433,55,54,Yashica Kant,Radiologist,Ruby Hall
+D2690,48,48,Amruta Pal,Cardiologist,Fortis
+D2360,61,61,Kashvi Bhatnagar,Neurologist,Deenanath
+D2843,38,38,Urvi Banerjee,Dermatologist,Sahyadri
+D2386,43,43,Anthony Gopal,Radiologist,Fortis
+D2333,54,54,Eesha Rama,Neurologist,Ruby Hall
+D2942,47,47,Quincy Bhatia,Dermatologist,Apollo
+D2423,44,44,Madhavi Sane,Orthopedic,Deenanath
+D2478,36,36,Balhaar Bhardwaj,Dermatologist,Manipal
+D2059,51,51,Praneel Agrawal,Cardiologist,Ruby Hall
+D2994,54,54,Samuel Jain,Orthopedic,Fortis
+D2034,58,57,Nitara Lalla,General Physician,Deenanath
+D2851,59,59,Dayamai Kalita,Neurologist,Sahyadri
+D2156,37,37,Yash Lal,Radiologist,Manipal
+D2158,41,41,Chanakya Naidu,General Physician,Ruby Hall
+D2822,56,56,Joshua Mohanty,General Physician,Manipal
+D2712,39,39,Alexander Chawla,Dermatologist,Sahyadri
+D2604,46,46,Peter Bhandari,General Physician,Manipal
+D2768,56,56,Yahvi Edwin,Neurologist,Apollo
+D2501,41,41,Darsh Subramaniam,General Physician,Deenanath
+D2321,40,40,Janaki Palla,Orthopedic,Apollo
+D2951,50,49,Hemal Seth,Orthopedic,Apollo
+D2282,40,40,Joshua Chakrabarti,Orthopedic,Manipal
+D2494,56,56,Adweta Kumer,Radiologist,Ruby Hall
+D2203,38,38,Zaid Swaminathan,General Physician,Ruby Hall
+D2473,38,38,Qarin Keer,Neurologist,Deenanath
+D2662,48,48,Xiti Chopra,Cardiologist,Deenanath
+D2944,47,47,Ladli Goel,Neurologist,Ruby Hall
+D2708,46,46,Advay Reddy,General Physician,Fortis
+D2299,49,49,Samuel Rai,Cardiologist,Apollo
+D2948,40,40,Rachita Dhar,General Physician,Apollo
+D2320,49,49,Leena Kalla,Radiologist,Deenanath
+D2603,54,54,Bhavani Wason,Orthopedic,Apollo
+D2617,46,46,Gopal Nigam,Cardiologist,Apollo
+D2804,50,50,Bina Patel,Neurologist,Deenanath
+D2318,51,51,Yoshita Chopra,General Physician,Apollo
+D2408,43,43,Laban Boase,Dermatologist,Apollo
+D2049,46,46,Kashish Raju,Neurologist,Fortis
+D2345,60,59,Samaksh Venkataraman,Orthopedic,Deenanath
+D2729,51,51,Geetika Purohit,Orthopedic,Apollo
+D2545,49,49,Shivansh Master,Cardiologist,Deenanath
+D2101,64,64,Isha Arora,General Physician,Manipal
+D2388,45,45,Faqid Khare,Orthopedic,Manipal
+D2188,37,37,Ikbal Gokhale,Radiologist,Ruby Hall
+D2444,37,37,Harshil Rastogi,Neurologist,Apollo
+D2332,47,47,Zayyan Sood,Cardiologist,Apollo
+D2499,57,57,Urvashi Thakur,Orthopedic,Deenanath
+D2420,49,49,Jacob Misra,Radiologist,Manipal
+D2992,57,57,Jeevika Mitra,General Physician,Deenanath
+D2117,52,51,Rushil Om,Neurologist,Apollo
+D2489,54,54,Zehaan Venkatesh,Orthopedic,Deenanath
+D2991,49,49,Om Narayanan,Orthopedic,Apollo
+D2973,58,57,Mugdha Samra,Radiologist,Apollo
+D2678,42,42,Yuvraj Johal,Cardiologist,Sahyadri
+D2711,43,43,Chanchal Taneja,Radiologist,Apollo
+D2088,57,57,Gautami Jani,General Physician,Apollo
+D2782,47,47,Vritti Shan,Cardiologist,Apollo
+D2468,52,52,Gautam Andra,General Physician,Ruby Hall
+D2438,45,45,Nisha Sekhon,Orthopedic,Sahyadri
+D2694,53,53,Yadavi Nazareth,Orthopedic,Deenanath
+D2523,43,43,Bina Pandya,Dermatologist,Sahyadri
+D2294,45,45,Zayan Singh,Dermatologist,Ruby Hall
+D2757,50,48,Lakshmi Purohit,General Physician,Apollo
+D2442,52,52,Gagan Mammen,Orthopedic,Sahyadri
+D2876,54,54,Teerth Ahluwalia,Cardiologist,Fortis
+D2516,54,54,Vasudha Bhagat,Radiologist,Ruby Hall
+D2697,44,44,Imaran Bail,Orthopedic,Manipal
+D2952,68,67,Urishilla Sarma,Orthopedic,Sahyadri
+D2066,58,58,Anita Kar,Cardiologist,Manipal
+D2456,50,50,Finn Kamdar,Cardiologist,Apollo
+D2562,51,51,Ubika Kale,Neurologist,Fortis
+D2463,44,44,Amol Kala,Orthopedic,Manipal
+D2196,47,47,Vritti Chahal,Radiologist,Ruby Hall
+D2716,48,48,Bhavya Ben,Orthopedic,Manipal
+D2857,40,40,Teerth Upadhyay,Orthopedic,Apollo
+D2529,53,53,Wakeeta Purohit,Dermatologist,Deenanath
+D2722,49,49,Yahvi Prashad,General Physician,Ruby Hall
+D2567,53,53,Hamsini Subramaniam,General Physician,Ruby Hall
+D2568,48,48,Finn Balay,Radiologist,Apollo
+D2755,46,46,Unnati Khosla,General Physician,Ruby Hall
+D2588,42,42,Varenya Iyer,Orthopedic,Ruby Hall
+D2329,49,49,Gavin Chand,Orthopedic,Fortis
+D2926,55,55,Harini Dara,Cardiologist,Manipal
+D2831,52,52,Nidhi Doctor,General Physician,Deenanath
+D2786,49,49,Faqid Pathak,Radiologist,Apollo
+D2753,54,53,Elijah Hans,Orthopedic,Deenanath
+D2616,59,59,Warhi Parmer,Radiologist,Ruby Hall
+D2936,44,44,Nidra Dani,Cardiologist,Fortis
+D2841,42,42,Balveer Rout,Orthopedic,Apollo
+D2142,59,59,Amaira Goyal,Dermatologist,Fortis
+D2155,56,56,Tripti Mannan,Radiologist,Ruby Hall
+D2787,56,56,Tripti Butala,Dermatologist,Apollo
+D2225,45,44,Mugdha Patla,General Physician,Sahyadri
+D2043,46,46,Neel Thaman,Radiologist,Apollo
+D2533,45,45,Om Devi,Radiologist,Deenanath
+D2004,47,47,Upkaar Batra,Neurologist,Sahyadri
+D2352,45,45,Upkaar Raghavan,Orthopedic,Manipal
+D2248,63,62,Yash Rajagopalan,Neurologist,Deenanath
+D2795,35,35,Ayaan Rama,General Physician,Deenanath
+D2908,61,61,Pahal Dixit,Cardiologist,Sahyadri
+D2480,50,50,Samuel Chopra,Radiologist,Ruby Hall
+D2820,51,50,Mugdha Sachdeva,Cardiologist,Apollo
+D2629,34,34,Aishani Suri,Dermatologist,Manipal
+D2482,51,51,Gautami Cherian,Orthopedic,Sahyadri
+D2873,45,45,Samarth Gara,Orthopedic,Sahyadri
+D2883,55,55,Warhi Bakshi,Radiologist,Manipal
+D2586,51,51,Anya Rege,Radiologist,Manipal
+D2613,41,41,Hardik Hora,Dermatologist,Deenanath
+D2337,45,44,Lucky Sem,Radiologist,Ruby Hall
+D2766,60,59,Azad Zachariah,General Physician,Ruby Hall
+D2199,43,43,Champak Lata,General Physician,Ruby Hall
+D2605,49,49,Wishi Kata,Dermatologist,Manipal
+D2968,35,35,Meera Oza,Neurologist,Fortis
+D2941,39,38,Devika Baria,Cardiologist,Deenanath
+D2688,50,50,Kashvi Singh,General Physician,Sahyadri
+D2019,65,65,Wyatt Rai,General Physician,Manipal
+D2707,63,63,Teerth Dixit,Dermatologist,Ruby Hall
+D2765,56,55,Tristan Dhar,Orthopedic,Manipal
+D2122,50,50,Siddharth Karan,Radiologist,Deenanath
+D2279,48,48,Ria Atwal,General Physician,Fortis
+D2836,49,49,Jatin Bhargava,Neurologist,Apollo
+D2232,64,64,Amruta Majumdar,Neurologist,Deenanath
+D2063,47,47,Leela Bains,Cardiologist,Manipal
+D2691,47,46,Frederick Mangal,Cardiologist,Deenanath
+D2623,49,49,Megha Barman,General Physician,Ruby Hall
+D2539,59,59,Dalaja Sankaran,Cardiologist,Manipal
+D2296,62,62,Vamakshi Devan,Orthopedic,Ruby Hall
+D2075,44,44,Ati Gara,Cardiologist,Manipal
+D2328,65,65,Rajata Sem,Radiologist,Fortis
+D2630,46,46,Yasti Sur,Orthopedic,Manipal
+D2105,59,59,Bhanumati Karnik,Radiologist,Ruby Hall
+D2715,52,52,Baljiwan Sehgal,Cardiologist,Ruby Hall
+D2108,49,49,Ekantika Modi,Dermatologist,Deenanath
+D2530,56,56,Ekaraj Rattan,Orthopedic,Manipal
+D2021,48,48,Jai Mitter,Cardiologist,Apollo
+D2954,48,47,Nimrat Bhalla,Orthopedic,Deenanath
+D2076,52,52,Ekaja Pandya,Orthopedic,Manipal
+D2564,46,46,Diya Kibe,Cardiologist,Apollo
+D2211,41,40,Zinal Mahajan,Dermatologist,Deenanath
+D2171,46,46,Kritika Khosla,Dermatologist,Sahyadri
+D2270,50,49,Quincy Pant,General Physician,Apollo
+D2383,42,42,Max Babu,Cardiologist,Apollo
+D2746,44,44,Charles Anne,Orthopedic,Sahyadri
+D2527,46,46,Isaac Dugar,Dermatologist,Apollo
+D2240,59,59,Gunbir Badami,Radiologist,Sahyadri
+D2372,48,48,Gaurika Lata,Orthopedic,Manipal
+D2709,48,48,Charles Khanna,General Physician,Manipal
+D2047,51,51,Ayush Korpal,Neurologist,Sahyadri
+D2569,36,36,Dalaja Sunder,Cardiologist,Manipal
+D2893,44,44,Umang Bajwa,Orthopedic,Fortis
+D2264,46,46,Amara Rastogi,Dermatologist,Sahyadri
+D2134,52,52,Ansh Golla,General Physician,Deenanath
+D2419,42,42,Sudiksha Bobal,Dermatologist,Fortis
+D2245,41,41,Vrinda Ramakrishnan,Radiologist,Fortis
+D2549,53,53,Jagvi Goda,Dermatologist,Ruby Hall
+D2808,45,45,Shaurya Narayan,Radiologist,Sahyadri
+D2375,47,47,Hemal Koshy,General Physician,Manipal
+D2429,55,55,Balveer Sheth,General Physician,Sahyadri
+D2945,59,59,Leena Parsa,Neurologist,Ruby Hall
+D2119,45,45,Lohit Sha,Dermatologist,Apollo
+D2410,55,55,Arunima Memon,Radiologist,Ruby Hall
+D2098,51,50,Lopa Sani,General Physician,Manipal
+D2124,48,48,Robert Nair,Cardiologist,Apollo
+D2127,50,49,Pahal Kala,Orthopedic,Ruby Hall
+D2073,55,55,Radhika Kala,Dermatologist,Sahyadri
+D2939,52,52,Naksh Pandya,General Physician,Manipal
+D2010,52,52,Maanas Bajwa,General Physician,Apollo
+D2397,48,48,Nidra Chandra,Neurologist,Sahyadri
+D2437,50,50,Jack Murty,Radiologist,Deenanath
+D2131,47,47,Harinakshi Bhakta,Radiologist,Fortis
+D2107,39,39,Henry Raju,Neurologist,Ruby Hall
+D2370,44,44,Agastya Maharaj,Neurologist,Manipal
+D2923,45,45,Raagini Chand,Cardiologist,Fortis
+D2172,46,46,Nakul Saran,Dermatologist,Ruby Hall
+D2738,44,44,Avi Parikh,Cardiologist,Sahyadri
+D2988,56,56,Eshana Gokhale,Radiologist,Sahyadri
+D2815,43,43,Ranveer Virk,General Physician,Apollo
+D2002,40,40,Ekalinga Krish,General Physician,Ruby Hall
+D2981,49,49,William Kari,Radiologist,Manipal
+D2809,44,44,Raagini Buch,Cardiologist,Ruby Hall
+D2848,53,53,David Kalita,Radiologist,Apollo
+D2475,49,49,Samarth Doshi,Neurologist,Ruby Hall
+D2846,49,49,Xalak Ramaswamy,Radiologist,Ruby Hall
+D2594,33,33,Jagrati Kala,Neurologist,Sahyadri
+D2649,59,59,Vidhi Mall,Dermatologist,Apollo
+D2362,47,47,Tanish Patil,Neurologist,Apollo
+D2210,48,48,Balhaar Tandon,Radiologist,Ruby Hall
+D2152,61,61,Sudiksha Karan,Neurologist,Manipal
+D2969,56,56,Vinaya Gala,General Physician,Apollo
+D2601,53,53,Girish Butala,Neurologist,Ruby Hall
+D2671,55,55,Harsh Manda,Neurologist,Fortis
+D2850,53,53,Ekaja Sarin,Orthopedic,Manipal
+D2045,44,44,Parth Garde,Radiologist,Sahyadri
+D2343,53,53,Fariq Gokhale,Orthopedic,Sahyadri
+D2212,44,43,Isha Sama,Neurologist,Fortis
+D2903,46,46,Anvi Rana,General Physician,Deenanath
+D2252,53,53,Yamini Seshadri,Dermatologist,Apollo
+D2830,61,61,Maya Bhasin,Orthopedic,Fortis
+D2028,42,42,Triya Chhabra,Neurologist,Apollo
+D2338,43,43,Ira Mandal,Cardiologist,Sahyadri
+D2068,45,45,Finn Peri,Neurologist,Apollo
+D2933,56,56,Triveni Modi,Cardiologist,Apollo
+D2859,41,41,Yauvani Modi,Dermatologist,Fortis
+D2467,40,40,Chandresh Dhawan,Cardiologist,Sahyadri
+D2326,40,40,Yashvi Kuruvilla,Orthopedic,Ruby Hall
+D2522,50,50,Daniel Chander,Dermatologist,Deenanath
+D2100,57,56,Ijaya Walia,Radiologist,Fortis
+D2695,46,46,Anirudh Hayer,General Physician,Deenanath
+D2346,54,52,Aditya Prasad,Cardiologist,Sahyadri
+D2361,47,47,Rachita Biswas,Orthopedic,Apollo
+D2041,44,44,Daksha Sundaram,Cardiologist,Ruby Hall
+D2313,46,46,Raghav Desai,Neurologist,Manipal
+D2298,42,42,Sathvik Kari,Radiologist,Apollo
+D2874,56,55,Chaaya Nagar,Dermatologist,Fortis
+D2521,46,46,Anirudh Bobal,Cardiologist,Deenanath
+D2550,51,51,Nirja Khurana,Neurologist,Sahyadri
+D2440,44,44,Karan Raju,General Physician,Apollo
+D2175,53,53,Harinakshi Bumb,Orthopedic,Ruby Hall
+D2904,50,49,Anya Sarin,Neurologist,Ruby Hall
+D2359,53,53,Arya Ghose,Dermatologist,Fortis
+D2393,60,60,Kevin Dara,Orthopedic,Manipal
+D2314,66,66,Daksh Vig,Neurologist,Ruby Hall
+D2732,64,64,Ekaja Narayanan,General Physician,Manipal
+D2260,57,57,Gaurang Sood,Neurologist,Fortis
+D2426,44,44,Shivani Dyal,General Physician,Sahyadri
+D2898,59,59,Bhavna More,Neurologist,Fortis
+D2517,44,44,Wakeeta Walla,Orthopedic,Apollo
+D2262,64,63,Arunima Kalita,Orthopedic,Sahyadri
+D2621,47,47,Lila Pathak,Cardiologist,Sahyadri
+D2031,69,69,Hemang Chopra,Orthopedic,Manipal
+D2829,39,39,Samuel Wali,Cardiologist,Sahyadri
+D2818,47,47,Pooja Khosla,Radiologist,Ruby Hall
+D2909,57,57,Adweta Dugar,General Physician,Fortis
+D2894,53,53,Hiral Nori,General Physician,Deenanath
+D2767,53,53,Gabriel Gokhale,General Physician,Deenanath
+D2980,64,63,Janani Kanda,General Physician,Deenanath
+D2459,47,47,Hiral Mohan,Neurologist,Fortis
+D2582,56,56,Gavin Shere,Radiologist,Apollo
+D2650,46,46,Aahana Warrior,Orthopedic,Deenanath
+D2833,63,63,Waida Dyal,Dermatologist,Deenanath
+D2089,60,60,Bimala Bail,Dermatologist,Fortis
+D2885,46,46,Kamala Loyal,General Physician,Deenanath
+D2531,62,62,Osha Misra,Neurologist,Ruby Hall
+D2867,37,37,Finn Shetty,Dermatologist,Apollo
+D2311,43,43,Nitesh Kulkarni,General Physician,Sahyadri
+D2739,52,52,Libni Venkataraman,Dermatologist,Deenanath
+D2417,51,51,Kamya Borde,Neurologist,Ruby Hall
+D2341,53,53,Widisha Keer,Radiologist,Sahyadri
+D2305,48,48,Ekalinga Srinivas,Orthopedic,Manipal
+D2115,48,48,Saumya Wason,General Physician,Deenanath
+D2792,43,43,Aarini Lata,Cardiologist,Manipal
+D2875,47,47,Rachana Pandey,Radiologist,Sahyadri
+D2439,51,51,Wakeeta Malhotra,Orthopedic,Ruby Hall
+D2983,59,59,Jagrati Yohannan,Orthopedic,Apollo
+D2255,58,58,Chaaya Kaul,Dermatologist,Apollo
+D2364,50,49,Janani Rattan,Neurologist,Apollo
+D2812,52,52,Nimrat Chacko,Orthopedic,Apollo
+D2972,58,58,Irya Saraf,Cardiologist,Manipal
+D2197,50,50,Leela Dhaliwal,General Physician,Apollo
+D2159,43,43,Farhan Viswanathan,Radiologist,Sahyadri
+D2395,41,41,Qadim Malhotra,Cardiologist,Fortis
+D2705,49,49,Parth Ranganathan,Dermatologist,Manipal
+D2141,48,48,Umang Lad,Neurologist,Ruby Hall
+D2960,37,37,Lajita Verma,Dermatologist,Manipal
+D2500,50,50,Balhaar Choudhry,Radiologist,Manipal
+D2902,55,54,Gabriel Chhabra,Orthopedic,Manipal
+D2538,47,47,Krishna Chand,Cardiologist,Deenanath
+D2717,47,47,Robert Gandhi,Cardiologist,Deenanath
+D2202,49,48,Kamala Tandon,Orthopedic,Deenanath
+D2009,58,58,Amaira Date,Orthopedic,Ruby Hall
+D2376,50,50,Tanmayi Chaudhry,Neurologist,Ruby Hall
+D2157,52,51,Samaksh Narayanan,Orthopedic,Ruby Hall
+D2079,51,51,Kai Maharaj,Neurologist,Ruby Hall
+D2667,48,48,Rayaan Seth,Neurologist,Sahyadri
+D2461,55,55,Bhavya Maharaj,Cardiologist,Ruby Hall
+D2309,40,40,Saumya Srinivasan,Neurologist,Deenanath
+D2665,54,53,Yashawini Sridhar,Neurologist,Sahyadri
+D2178,48,48,Mohini Sem,General Physician,Sahyadri
+D2103,45,45,Gunbir Tella,Orthopedic,Apollo
+D2505,49,49,Yahvi D’Alia,General Physician,Ruby Hall
+D2528,47,46,Lakshit Halder,Radiologist,Fortis
+D2636,44,44,Akshay Lal,Neurologist,Deenanath
+D2484,58,58,Samar Pingle,Dermatologist,Manipal
+D2915,52,52,Aahana Rao,General Physician,Fortis
+D2511,46,46,Idika Kapur,Neurologist,Apollo
+D2647,34,34,Aryan Agate,Neurologist,Deenanath
+D2074,53,53,Warhi Verma,General Physician,Sahyadri
+D2807,55,55,William Nanda,Dermatologist,Ruby Hall
+D2003,46,45,Nicholas Sankaran,Cardiologist,Deenanath
+D2200,44,43,Ishanvi Krishnan,Neurologist,Deenanath
+D2974,51,51,Hemal Srivastava,Radiologist,Ruby Hall
+D2813,41,41,Hiral Venkatesh,Orthopedic,Ruby Hall
+D2574,52,52,Vanya Kalla,General Physician,Apollo
+D2758,38,38,Ojasvi Khalsa,Orthopedic,Ruby Hall
+D2457,41,41,Frado Krishna,General Physician,Manipal
+D2092,51,51,Bhavika Bhargava,Orthopedic,Manipal
+D2120,55,55,Forum Pillai,Dermatologist,Apollo
+D2263,41,41,Onveer Rao,Cardiologist,Deenanath
+D2491,46,46,Fiyaz Varughese,Dermatologist,Sahyadri
+D2584,53,53,Chakrika Barad,General Physician,Manipal
+D2646,59,59,Bhavya Suresh,Orthopedic,Manipal
+D2977,36,36,Bimala Dhillon,Neurologist,Apollo
+D2803,50,50,Siddharth Basak,Neurologist,Fortis
+D2595,44,44,Vanya Varughese,Dermatologist,Fortis
+D2849,53,53,Dhruv Barman,Radiologist,Manipal
+D2602,54,54,Ubika Yohannan,Dermatologist,Manipal
+D2217,51,51,Chandran Mishra,Cardiologist,Deenanath
+D2462,68,67,Pranit Bassi,General Physician,Fortis
+D2534,56,55,Vihaan Mitter,Orthopedic,Deenanath
+D2656,60,60,Avni Bobal,Radiologist,Manipal
+D2931,45,44,Yachana Ramakrishnan,General Physician,Fortis
+D2684,44,44,Nimrat Dara,General Physician,Apollo
+D2653,55,55,Yashodhara Munshi,Dermatologist,Manipal
+D2710,54,54,Yatan Soman,Cardiologist,Ruby Hall
+D2832,55,55,Januja Naidu,General Physician,Ruby Hall
+D2638,41,41,Arya Pradhan,Orthopedic,Apollo
+D2289,45,45,Ekaraj Sachdeva,Cardiologist,Deenanath
+D2606,43,43,Balvan Sarma,Orthopedic,Manipal
+D2014,61,61,Kamala Shan,Cardiologist,Ruby Hall
+D2183,42,42,Saksham Sachdeva,Orthopedic,Fortis
+D2454,48,48,Manan Gade,Dermatologist,Apollo
+D2213,37,37,Eiravati Nanda,General Physician,Apollo
+D2151,49,49,Tanay Ramaswamy,Cardiologist,Manipal
+D2486,58,58,Laksh Karnik,Dermatologist,Ruby Hall
+D2123,57,57,Umang Arora,Radiologist,Sahyadri
+D2825,38,38,Dominic Mutti,Neurologist,Sahyadri
+D2797,44,44,Udarsh Prakash,Dermatologist,Manipal
+D2422,48,48,Jai Basu,Dermatologist,Sahyadri
+D2696,47,46,Ucchal Bail,General Physician,Ruby Hall
+D2277,54,54,Reva Wagle,Orthopedic,Deenanath
+D2540,51,51,Charita Brar,Neurologist,Deenanath
+D2064,43,43,Isha Sarkar,General Physician,Deenanath
+D2921,48,48,Qasim Thakur,General Physician,Manipal
+D2307,52,52,Nidhi Dara,Cardiologist,Manipal
+D2129,51,50,Ayaan Naidu,Cardiologist,Apollo
+D2660,56,56,Wriddhish Pant,Neurologist,Deenanath
+D2368,52,52,Forum Verma,Cardiologist,Apollo
+D2652,41,41,Damini Din,Radiologist,Manipal
+D2701,43,43,Joshua Patla,Dermatologist,Apollo
+D2306,55,55,Anjali Lanka,Radiologist,Apollo
+D2451,54,54,Gauri Anand,Dermatologist,Manipal
+D2863,48,48,Vedika Dua,Radiologist,Ruby Hall
+D2069,57,57,Turvi Chokshi,Dermatologist,Sahyadri
+D2576,54,54,Faraj Lalla,Cardiologist,Manipal
+D2477,52,52,Fiyaz Srinivasan,Dermatologist,Apollo
+D2095,35,35,Yahvi Vasa,General Physician,Fortis
+D2956,51,50,Qarin Ramachandran,Neurologist,Apollo
+D2561,54,54,Bachittar Tripathi,Radiologist,Fortis
+D2164,56,56,Krisha Kala,Dermatologist,Manipal
+D2180,53,53,Forum Sani,Orthopedic,Apollo
+D2557,55,55,Krish Tak,Neurologist,Manipal
+D2243,70,70,Nicholas Hegde,General Physician,Ruby Hall
+D2292,58,58,Dev Bhat,Neurologist,Fortis
+D2692,42,42,Anamika Thakkar,Orthopedic,Fortis
+D2959,43,43,Lakshmi Garde,General Physician,Deenanath
+D2847,50,50,Abeer Batra,Dermatologist,Fortis
+D2184,48,48,Vansha Bakshi,Orthopedic,Deenanath
+D2001,48,48,Vivaan Bahri,Neurologist,Sahyadri
+D2112,52,52,Forum Buch,General Physician,Ruby Hall
+D2258,61,61,Hemangini Naik,Dermatologist,Ruby Hall
+D2887,61,61,Jai Ganguly,Cardiologist,Fortis
+D2469,50,50,Brijesh Lad,Neurologist,Deenanath
+D2999,54,53,Bhavini Chokshi,Orthopedic,Deenanath
+D2040,43,43,Kritika Chanda,Cardiologist,Apollo
+D2566,60,60,Hredhaan Devan,Radiologist,Sahyadri
+D2249,57,57,Brinda Sarna,General Physician,Manipal
+D2958,62,62,Zarna Nayak,Neurologist,Fortis
+D2524,53,53,Qarin Varghese,Dermatologist,Manipal
+D2195,50,50,Lila Sharaf,General Physician,Fortis
+D2672,44,43,Vidhi Hayre,Neurologist,Fortis
+D2916,46,46,Frederick Kota,Cardiologist,Sahyadri
+D2485,42,42,Anthony Dyal,Radiologist,Manipal
+D2504,44,44,Samaksh Sarin,Dermatologist,Manipal
+D2780,49,49,Yuvraj Jain,General Physician,Fortis
+D2214,48,48,Niharika Gaba,Orthopedic,Apollo
+D2295,50,50,Aadhya Pandey,Neurologist,Ruby Hall
+D2897,43,43,Tristan Grover,Cardiologist,Manipal
+D2168,42,42,Daksha Pant,Neurologist,Manipal
+D2453,56,56,Ekansh Chatterjee,Radiologist,Sahyadri
+D2706,65,63,Robert Rao,Dermatologist,Ruby Hall
+D2840,55,55,Parth Tiwari,Radiologist,Ruby Hall
+D2666,52,52,Lakshmi Gandhi,Cardiologist,Deenanath
+D2085,41,41,Pooja Iyer,Orthopedic,Deenanath
+D2930,48,48,Frederick Ganesan,Orthopedic,Ruby Hall
+D2392,42,42,Ekbal Nath,Cardiologist,Fortis
+D2674,44,44,Dev Raj,Cardiologist,Fortis
+D2985,55,55,Timothy Kibe,Radiologist,Deenanath
+D2222,41,41,Suhani Edwin,General Physician,Sahyadri
+D2578,51,51,Abeer Bail,Cardiologist,Apollo
+D2724,50,50,Shaurya Yohannan,Neurologist,Sahyadri
+D2030,47,47,Ishaan Sood,Orthopedic,Deenanath
+D2181,51,51,Hemang Comar,Neurologist,Fortis
+D2446,50,48,Varenya Guha,Neurologist,Fortis
+D2853,50,50,Aayush Badal,Dermatologist,Ruby Hall
+D2637,44,44,Fariq Dave,Radiologist,Ruby Hall
+D2198,52,52,Nicholas Khare,Orthopedic,Deenanath
+D2269,65,65,Vedhika Atwal,Cardiologist,Deenanath
+D2542,49,49,Owen Dhar,Neurologist,Deenanath
+D2518,60,60,Ekani Toor,Dermatologist,Deenanath
+D2852,57,57,Vedant Chakrabarti,Orthopedic,Manipal
+D2535,48,48,Priya Borde,Dermatologist,Sahyadri
+D2099,64,64,Udant Salvi,Dermatologist,Apollo
+D2206,49,48,Saanvi Sanghvi,Radiologist,Deenanath
+D2580,56,56,Amruta Rao,Neurologist,Apollo
+D2747,48,48,Balendra Om,Cardiologist,Fortis
+D2450,56,56,Raghav Bora,General Physician,Deenanath
+D2431,53,53,Janya Tiwari,Cardiologist,Sahyadri
+D2776,48,48,Matthew Sachdeva,Neurologist,Fortis
+D2618,60,59,Girik Jhaveri,Cardiologist,Ruby Hall
+D2005,42,42,Nathaniel Bhargava,Neurologist,Deenanath
+D2733,49,49,Zehaan Pant,General Physician,Ruby Hall
+D2038,48,48,Rudra Bandi,Cardiologist,Manipal
+D2934,47,47,Imaran Konda,Neurologist,Apollo
+D2779,50,49,Dalaja Sama,General Physician,Apollo
+D2611,47,47,Anjali Master,Neurologist,Ruby Hall
+D2113,64,64,Yasti Sani,Radiologist,Ruby Hall
+D2619,54,54,Kalpit Gera,Neurologist,Deenanath
+D2626,42,42,Ati Pillay,Orthopedic,Manipal
+D2659,52,52,Mahika Vora,Cardiologist,Deenanath
+D2308,46,44,Guneet Mandal,Radiologist,Deenanath
+D2842,35,35,Ansh Sarraf,Neurologist,Apollo
+D2998,55,55,Arjun Bhatia,Cardiologist,Deenanath
+D2514,53,53,Leela Master,Orthopedic,Manipal
+D2228,53,53,Warinder Nath,Radiologist,Fortis
+D2067,61,61,Xalak Nigam,Dermatologist,Deenanath
+D2700,42,41,Umang Mahal,General Physician,Apollo
+D2242,51,51,Jackson Parmer,Orthopedic,Apollo
+D2837,60,60,Ubika Chandran,Cardiologist,Manipal
+D2888,47,47,Lipika Sanghvi,Orthopedic,Ruby Hall
+D2226,54,54,Charita Karnik,Dermatologist,Sahyadri
+D2657,55,55,Ekbal Memon,Dermatologist,Apollo
+D2116,44,44,Kabir Varty,Orthopedic,Ruby Hall
+D2324,57,57,Bhanumati Anand,Orthopedic,Manipal
+D2441,53,53,Daniel Zachariah,Dermatologist,Apollo
+D2987,40,40,Dhruv Misra,Cardiologist,Manipal
+D2187,45,45,Anvi Agrawal,Cardiologist,Fortis
+D2378,42,42,Harish Narula,Orthopedic,Sahyadri
+D2520,50,50,Thomas Agarwal,Neurologist,Sahyadri
+D2340,66,66,Fariq Lall,Cardiologist,Fortis
+D2498,57,57,Sanaya Chowdhury,Radiologist,Deenanath
+D2241,42,42,Pranit Thaker,Cardiologist,Ruby Hall
+D2736,52,52,Amara Bhagat,Dermatologist,Fortis
+D2763,49,49,Chaitanya Ravi,Orthopedic,Deenanath
+D2742,56,56,Vritti Kala,General Physician,Manipal
+D2339,59,59,Timothy Venkatesh,General Physician,Fortis
+D2749,51,51,Ryan Wason,Cardiologist,Sahyadri
+D2097,36,36,Robert Rana,Radiologist,Apollo
+D2033,53,52,Rudra Nayak,Orthopedic,Ruby Hall
+D2570,50,50,Adweta Chopra,Dermatologist,Apollo
+D2208,57,56,Elijah Nagy,Neurologist,Deenanath
+D2750,46,46,Sanya Barad,Neurologist,Apollo
+D2886,58,58,Mohammed Mital,Radiologist,Sahyadri
+D2445,56,56,Bhanumati Misra,Cardiologist,Ruby Hall
+D2179,50,50,Azad Nazareth,General Physician,Apollo
+D2741,41,41,Faraj Comar,Radiologist,Ruby Hall
+D2932,46,46,Nicholas Divan,Neurologist,Deenanath
+D2271,58,58,Manya Shetty,Neurologist,Fortis
+D2891,58,58,Vincent Parikh,Cardiologist,Deenanath
+D2209,44,44,Chanakya Dayal,Cardiologist,Sahyadri
+D2436,36,36,Yadavi Cherian,Orthopedic,Sahyadri
+D2579,45,45,Lakshit Rajagopalan,General Physician,Fortis
+D2121,48,48,Ayush Morar,Neurologist,Deenanath
+D2754,58,58,Praneel Balasubramanian,Dermatologist,Sahyadri
+D2553,53,53,Chakrika Samra,Cardiologist,Ruby Hall
+D2625,45,45,Alka Sarraf,Neurologist,Apollo
+D2358,44,44,Harinakshi Rastogi,Cardiologist,Apollo
+D2890,48,48,Triya Ganesan,Dermatologist,Sahyadri
+D2880,49,49,Sarthak Chahal,General Physician,Fortis
+D2353,58,57,Tejas Vyas,General Physician,Apollo
+D2600,57,57,Benjamin Sampath,General Physician,Apollo
+D2964,52,52,Yash Nadkarni,Dermatologist,Fortis
+D2824,51,51,Parth Venkatesh,Radiologist,Ruby Hall
+D2591,42,42,Tripti Pandey,Orthopedic,Deenanath
+D2631,54,54,Qasim Narang,Dermatologist,Fortis
+D2551,65,65,Finn Chanda,Neurologist,Apollo
+D2805,50,50,Diya Varty,Orthopedic,Ruby Hall
+D2283,41,40,Damyanti Trivedi,Dermatologist,Deenanath
+D2918,40,40,Tarak Jayaraman,Radiologist,Apollo
+D2221,44,43,Vedika Sahni,Dermatologist,Fortis
+D2713,53,53,Owen Konda,Cardiologist,Fortis
+D2421,50,50,Andrew Kurian,Dermatologist,Ruby Hall
+D2288,43,42,Jason Palan,Orthopedic,Manipal
+D2275,52,52,Urmi Andra,Neurologist,Deenanath
+D2817,52,52,Qabil Atwal,Radiologist,Ruby Hall
+D2247,44,44,Faraj Sha,Neurologist,Ruby Hall
+D2839,50,50,Abdul Narayan,Dermatologist,Apollo
+D2821,41,41,Oscar Ghosh,Dermatologist,Deenanath
+D2086,46,46,Pallavi Patel,Radiologist,Ruby Hall
+D2548,44,44,Madhav Purohit,Neurologist,Sahyadri
+D2291,51,51,Gaurang Arya,Dermatologist,Manipal
+D2543,44,44,Vedhika Chakraborty,General Physician,Fortis
+D2512,60,60,Harrison Chandran,Dermatologist,Manipal
+D2428,54,54,Adya Sethi,Dermatologist,Fortis
+D2435,35,35,Wriddhish Krishnan,Neurologist,Sahyadri
+D2689,46,46,Vincent Kapoor,Neurologist,Sahyadri
+D2027,49,49,Harini Gole,Orthopedic,Ruby Hall
+D2955,47,47,Patrick Chakrabarti,General Physician,Apollo
+D2371,61,61,Hemangini Venkatesh,Dermatologist,Manipal
+D2130,42,42,Raghav Apte,Radiologist,Manipal
+D2369,56,56,Matthew Upadhyay,General Physician,Apollo
+D2541,49,49,Rudra Chawla,Cardiologist,Ruby Hall
+D2024,50,50,Chandresh Chand,Dermatologist,Sahyadri
+D2596,51,50,Triya Garg,Radiologist,Ruby Hall
+D2900,55,55,Zansi Narayanan,Dermatologist,Sahyadri
+D2496,57,57,Benjamin Natt,General Physician,Deenanath
+D2889,40,40,Advika Bhattacharyya,Neurologist,Apollo
+D2006,49,49,Laksh Halder,Radiologist,Sahyadri
+D2686,44,44,Thomas Patil,Cardiologist,Manipal
+D2610,46,46,Charvi Walla,Orthopedic,Fortis
+D2182,48,48,Rachita Hegde,General Physician,Ruby Hall
+D2384,56,56,Veer Sant,General Physician,Sahyadri
+D2411,43,43,Eshana Natt,Cardiologist,Deenanath
+D2816,40,40,Netra Amble,Cardiologist,Apollo
+D2416,71,70,Owen Raval,Dermatologist,Ruby Hall
+D2868,57,57,Chavvi Buch,Cardiologist,Manipal
+D2764,50,50,Irya Jain,Dermatologist,Apollo
+D2979,65,65,Harshil Suresh,Neurologist,Sahyadri
+D2093,47,46,Nitesh Ahuja,Dermatologist,Sahyadri
+D2704,48,47,Vasana More,Dermatologist,Manipal
+D2246,48,48,Panini Sood,Cardiologist,Manipal
+D2895,46,44,Matthew Bedi,Neurologist,Apollo
+D2023,54,54,Nicholas Reddy,Neurologist,Sahyadri
+D2126,56,56,Ria Doshi,Orthopedic,Ruby Hall
+D2137,40,40,Ansh Nadkarni,Dermatologist,Deenanath
+D2744,51,51,Edhitha Chandran,Radiologist,Manipal
+D2563,56,56,Teerth Seshadri,Cardiologist,Sahyadri
+D2525,51,51,Daksh Sama,Orthopedic,Sahyadri
+D2190,43,43,Vivaan Chowdhury,Dermatologist,Apollo
+D2982,49,49,Indali Pandey,Dermatologist,Deenanath
+D2870,47,47,Brijesh Radhakrishnan,Cardiologist,Apollo
+D2585,56,56,Zarna Sangha,Orthopedic,Manipal
+D2051,63,63,Isaiah Shetty,Cardiologist,Deenanath
+D2615,45,45,Parth Krishnan,Radiologist,Apollo
+D2912,45,44,Balveer Borra,Radiologist,Manipal
+D2276,51,51,Yashoda Radhakrishnan,General Physician,Sahyadri
+D2734,51,51,Manbir Shetty,Dermatologist,Manipal
+D2238,53,53,Osha Minhas,Neurologist,Manipal
+D2720,54,54,Isaac Sami,Neurologist,Ruby Hall
+D2748,52,52,Banjeet Sahota,General Physician,Apollo
+D2432,47,47,Gayathri Thakkar,Orthopedic,Ruby Hall
+D2546,57,56,Kashish Varughese,General Physician,Ruby Hall
+D2312,57,57,Yachana Wadhwa,General Physician,Deenanath
+D2669,39,39,Zayyan Dhar,Dermatologist,Manipal
+D2483,53,53,Zaid Edwin,Orthopedic,Deenanath
+D2785,48,48,Henry Chakrabarti,General Physician,Ruby Hall
+D2560,45,45,Ikshita Kunda,Cardiologist,Deenanath
+D2072,54,54,Raksha Lall,Neurologist,Deenanath
+D2814,42,42,Pooja Patla,Cardiologist,Sahyadri
+D2634,45,45,Zinal Maharaj,Orthopedic,Deenanath
+D2412,57,57,Bachittar Rattan,Neurologist,Manipal
+D2555,46,46,Daksh Bera,Neurologist,Manipal
+D2976,57,57,Dayamai Kaur,Orthopedic,Apollo
+D2784,57,57,Ranveer Dhaliwal,Neurologist,Sahyadri
+D2257,49,49,Hemangini Chahal,Cardiologist,Sahyadri
+D2304,48,48,Anjali Sehgal,Cardiologist,Ruby Hall
+D2062,48,48,Charvi Salvi,Orthopedic,Apollo
+D2219,47,47,Tristan Bose,Orthopedic,Sahyadri
+D2110,47,47,Bimala Virk,General Physician,Apollo
+D2937,57,57,Ekantika Banik,General Physician,Sahyadri
+D2791,49,49,Aahana Dhillon,Dermatologist,Manipal
+D2558,46,46,Andrew Chada,Neurologist,Deenanath
+D2864,42,42,Aishani Gole,General Physician,Sahyadri
+D2892,35,34,Hitesh Bahri,Dermatologist,Deenanath
+D2316,56,56,Nicholas Jhaveri,Dermatologist,Apollo
+D2906,40,40,Faraj Yadav,Dermatologist,Deenanath
+D2993,47,47,Dayamai Comar,Dermatologist,Apollo
+D2060,41,41,Gunbir Kalita,Dermatologist,Ruby Hall
+D2452,45,45,Sathvik Vora,Cardiologist,Manipal
+D2235,54,54,Gunbir Bhavsar,Cardiologist,Sahyadri
+D2055,59,57,Yashasvi Krish,General Physician,Apollo
+D2465,54,54,Lakshit Kapur,Orthopedic,Deenanath
+D2104,33,33,Vasatika Bali,Cardiologist,Ruby Hall
+D2344,61,61,Mitali Dey,Radiologist,Ruby Hall
+D2056,39,39,Falguni Parikh,Radiologist,Ruby Hall
+D2336,55,55,Faris Mannan,Neurologist,Manipal
+D2989,46,46,Aachal Varkey,Dermatologist,Fortis
+D2272,61,61,Dalbir Sachar,General Physician,Sahyadri
+D2476,60,60,Janaki Deol,Orthopedic,Apollo
+D2143,44,44,Zarna Kota,General Physician,Sahyadri
+D2052,48,48,Krisha Acharya,Neurologist,Apollo
+D2844,52,51,Mitali Reddy,Orthopedic,Ruby Hall
+D2635,32,32,Wyatt Sahota,Neurologist,Sahyadri
+D2624,57,57,Hritik Dutta,Orthopedic,Sahyadri
+D2194,51,51,Leela Patil,Neurologist,Manipal
+D2914,57,57,Pallavi Wason,Neurologist,Manipal
+D2300,60,60,Andrew Bhardwaj,Dermatologist,Apollo
+D2783,36,36,Madhavi Char,Dermatologist,Ruby Hall
+D2925,41,41,Aarini Gole,Neurologist,Manipal
+D2513,52,52,Yadavi Gandhi,Dermatologist,Apollo
+D2907,37,37,Siddharth Narasimhan,Dermatologist,Sahyadri
+D2087,50,50,Vyanjana Krishnan,Orthopedic,Manipal
+D2698,57,57,Omya Patil,Radiologist,Manipal
+D2136,53,53,Gagan Devi,Neurologist,Deenanath
+D2348,43,43,David Dutt,Orthopedic,Ruby Hall
+D2044,62,62,Chakrika Grewal,Radiologist,Apollo
+D2640,58,57,Tanveer Sangha,General Physician,Sahyadri
+D2373,54,54,Eta Ramakrishnan,Cardiologist,Fortis
+D2810,38,37,Mitesh Rajagopal,Neurologist,Deenanath
+D2565,53,53,Elijah Loke,Cardiologist,Manipal
+D2645,54,54,Hema Saha,Radiologist,Fortis
+D2670,53,53,Luke Banik,Radiologist,Fortis
+D2015,47,47,Arjun Atwal,Dermatologist,Deenanath
+D2745,60,60,Radhika Batta,Orthopedic,Apollo
+D2413,51,51,Edhitha Narayanan,Cardiologist,Fortis
+D2274,50,50,Lila Bhatt,Dermatologist,Ruby Hall
+D2730,64,64,Dalbir Sengupta,General Physician,Apollo
+D2109,53,53,Krisha Natt,Cardiologist,Ruby Hall
+D2917,56,56,Zashil Baral,Neurologist,Ruby Hall
+D2643,55,55,Ekalinga Badami,Dermatologist,Deenanath
+D2125,39,39,Edhitha Mahajan,General Physician,Ruby Hall
+D2794,50,50,Yadavi Lala,Cardiologist,Deenanath
+D2773,56,56,Dayamai Dave,Orthopedic,Manipal
+D2769,52,52,Anusha Samra,Orthopedic,Sahyadri
+D2455,51,51,Chasmum Kalita,Dermatologist,Manipal
+D2185,48,48,Chavvi Ganguly,Cardiologist,Sahyadri
+D2405,45,45,Faqid Zacharia,Radiologist,Manipal
+D2752,56,56,Qadim Bail,General Physician,Fortis
+D2335,49,48,Nicholas Andra,Cardiologist,Fortis
+D2913,45,45,Sanaya Suri,Neurologist,Fortis
+D2685,57,57,Upma Chatterjee,Orthopedic,Apollo
+D2556,59,59,Theodore Bhatt,Neurologist,Apollo
+D2169,59,59,Nikita Chaudhry,Orthopedic,Deenanath
+D2598,47,47,Reva Kata,General Physician,Apollo
+D2409,48,48,Ronith Desai,Dermatologist,Fortis
+D2259,42,42,Omkaar Dash,Radiologist,Ruby Hall
+D2396,48,47,Yashodhara Karan,Neurologist,Manipal
+D2967,45,45,Lila Soni,Radiologist,Deenanath
+D2177,33,33,Kevin Dhillon,Dermatologist,Manipal
+D2762,47,47,Warhi Varghese,Dermatologist,Ruby Hall
+D2037,43,43,Siddharth Sundaram,Cardiologist,Apollo
+D2845,49,49,Kalpit Saraf,Orthopedic,Sahyadri
+D2230,47,47,Aashi Chakraborty,Cardiologist,Fortis
+D2114,49,49,Aadhya Mistry,Radiologist,Sahyadri
+D2608,39,39,Caleb Goyal,Cardiologist,Manipal
+D2838,48,48,Nimrat Vala,Dermatologist,Manipal
+D2953,50,50,Panini Nair,Neurologist,Fortis
+D2901,56,56,Matthew Dhar,Neurologist,Manipal
+D2592,50,50,Bimala Palla,Orthopedic,Manipal
+D2163,38,38,Girik More,Neurologist,Manipal
+D2641,50,50,Fitan Ganesh,Cardiologist,Apollo
+D2058,55,53,Manya Mital,General Physician,Fortis
+D2301,42,42,Alka Kalita,Neurologist,Fortis
+D2620,60,59,Ayaan Borde,Radiologist,Deenanath
+D2084,41,41,Jeet Dave,General Physician,Ruby Hall
+D2379,68,68,Udyati Thakur,Cardiologist,Deenanath
+D2402,52,52,Amrita Dayal,Orthopedic,Ruby Hall
+D2819,61,61,Indira Murty,General Physician,Fortis
+D2415,43,43,Omya Sahota,General Physician,Manipal
+D2714,49,48,Reyansh Raja,Radiologist,Apollo
+D2919,55,55,Sai Deshpande,Dermatologist,Manipal
+D2693,50,50,Naveen Reddy,Neurologist,Apollo
+D2160,46,46,Nitesh Modi,Radiologist,Apollo
+D2466,53,53,Vamakshi Parmer,Dermatologist,Manipal
+D2552,59,57,Lakshit Ramachandran,Cardiologist,Manipal
+D2575,48,48,Luke Dubey,Neurologist,Apollo
+D2759,45,45,Lakshmi Nayar,Orthopedic,Fortis
+D2680,57,57,Bina Narasimhan,Radiologist,Sahyadri
+D2401,39,39,Kabir Guha,General Physician,Fortis
+D2537,36,35,Andrew Chahal,General Physician,Ruby Hall
+D2404,45,45,Faras Bhargava,Orthopedic,Fortis
+D2327,60,60,Lohit Dayal,Orthopedic,Manipal
+D2331,53,53,Unnati Mammen,Orthopedic,Manipal
+D2424,65,65,Rachita Balay,Radiologist,Deenanath
+D2682,40,40,Bhavika Arora,General Physician,Fortis
+D2449,56,55,Chaitanya Nagarajan,Cardiologist,Manipal
+D2017,50,50,Udarsh Bawa,General Physician,Sahyadri
+D2042,35,35,Aryan Basak,Dermatologist,Apollo
+D2793,46,46,Krishna Kohli,Dermatologist,Manipal
+D2503,54,53,Veer Sahota,Neurologist,Manipal
+D2036,53,53,Rayaan Kale,Orthopedic,Deenanath
+D2387,54,54,Dayita Sha,Dermatologist,Deenanath
+D2161,52,52,Aashi Bali,Dermatologist,Fortis
+D2544,57,55,Ojas Hans,Radiologist,Deenanath
+D2227,47,47,Chakradhar Basak,General Physician,Fortis
+D2581,40,40,Atharv Hayre,Orthopedic,Deenanath
+D2061,45,45,Andrew Bains,Neurologist,Apollo
+D2029,45,45,Zilmil Saran,General Physician,Manipal
+D2173,46,46,Ishanvi Banik,Radiologist,Manipal
+D2351,46,46,Sanya Ghosh,Neurologist,Manipal
+D2356,50,50,Ojas Iyer,General Physician,Manipal
+D2881,63,62,Panini Bhatia,Dermatologist,Fortis
+D2236,42,42,Gautami Merchant,General Physician,Manipal
+D2506,55,55,Vinaya Chowdhury,Orthopedic,Ruby Hall
+D2215,48,48,Prisha Madan,Neurologist,Deenanath
+D2377,50,50,Kai Tella,General Physician,Fortis
+D2391,61,61,Chatresh Balan,Orthopedic,Apollo
+D2778,32,32,Urishilla Garg,Dermatologist,Manipal
+D2995,46,46,Megha Setty,Cardiologist,Fortis
+D2642,42,40,Meghana Cheema,Cardiologist,Apollo
+D2879,41,41,Dhriti Kunda,Radiologist,Fortis
+D2677,44,44,Yasti Singhal,Orthopedic,Sahyadri
+D2854,51,51,Oliver Narayanan,Neurologist,Manipal
+D2668,49,49,Benjamin Kothari,Cardiologist,Fortis
+D2390,51,51,Zaitra Dubey,General Physician,Deenanath
+D2971,54,52,Wishi Nazareth,Orthopedic,Fortis
+D2250,48,48,Harshil Vyas,Radiologist,Apollo
+D2261,54,54,Lipika Dhar,Orthopedic,Manipal
+D2406,49,48,Chatresh Sarin,Cardiologist,Ruby Hall
+D2022,47,47,Abhiram Narayanan,Radiologist,Fortis
+D2599,45,45,Rehaan Murty,Cardiologist,Apollo
+D2910,41,41,Urvi Dass,Radiologist,Ruby Hall
+D2149,39,39,Qarin Natarajan,General Physician,Fortis
+D2683,34,34,Chaman Srivastava,Neurologist,Sahyadri
+D2253,51,51,Benjamin More,Dermatologist,Sahyadri
+D2855,51,51,Sachi Das,General Physician,Fortis
+D2016,56,56,Vedika Iyer,Orthopedic,Deenanath
+D2519,37,37,Mekhala Toor,Cardiologist,Sahyadri
+D2145,50,50,Faraj Konda,Neurologist,Apollo
+D2414,45,45,Divya Chaudry,Neurologist,Ruby Hall
+D2547,40,40,Farhan Mohanty,Neurologist,Sahyadri
+D2191,52,51,Urmi Nair,General Physician,Manipal
+D2587,61,60,Zarna Madan,General Physician,Apollo
+D2357,59,58,Upma Natt,General Physician,Fortis
+D2118,52,52,Luke Shankar,Orthopedic,Deenanath
+D2140,40,40,Yachana Natt,Neurologist,Ruby Hall
+D2403,44,44,Upkaar Balakrishnan,Dermatologist,Fortis
+D2315,35,35,Aarush Upadhyay,Radiologist,Ruby Hall
+D2192,49,49,Dominic Kara,Orthopedic,Manipal
+D2996,38,38,Jatin Sani,Dermatologist,Sahyadri
+D2679,53,53,Harita Mahajan,General Physician,Sahyadri
+D2081,38,38,Jairaj Ram,Cardiologist,Apollo
+D2334,53,53,Qushi Johal,General Physician,Ruby Hall
+D2078,58,57,Oliver Narang,Orthopedic,Ruby Hall
+D2658,50,50,Avni Puri,Orthopedic,Fortis
+D2322,46,46,Nilima Tripathi,Radiologist,Apollo
+D2268,42,42,Arjun Warrior,Neurologist,Manipal
+D2663,45,45,Jatin Goswami,Radiologist,Manipal
+D2319,51,51,Hemangini Sood,Cardiologist,Apollo
+D2963,64,64,Wriddhish Bail,Neurologist,Fortis
+D2018,55,55,Gavin Rana,General Physician,Deenanath
+D2860,46,46,Ishaan Bala,Dermatologist,Sahyadri
+D2802,50,50,Gunbir Khosla,General Physician,Manipal
+D2622,49,49,Aayush Sen,Neurologist,Sahyadri
+D2325,55,55,Dalbir Mistry,Orthopedic,Apollo
+D2687,59,59,Henry Misra,Dermatologist,Fortis
+D2823,66,65,Vedhika Dey,Orthopedic,Ruby Hall
+D2150,42,42,Nitara Madan,Orthopedic,Ruby Hall
+D2559,42,42,Madhav Nagarajan,Neurologist,Manipal
+D2094,51,51,Victor Borde,Dermatologist,Ruby Hall
+D2011,48,48,Yauvani Minhas,Dermatologist,Manipal
+D2144,52,52,Advay Amble,Orthopedic,Ruby Hall
+D2026,48,48,Amruta Pau,Dermatologist,Manipal
+D2035,42,42,Atharv Vasa,Cardiologist,Apollo
+D2286,47,47,Tamanna Kar,Dermatologist,Manipal
+D2254,56,56,Ojasvi Rao,Orthopedic,Ruby Hall
+D2737,56,55,Samesh Biswas,Radiologist,Manipal
+D2220,49,48,Chaaya Chauhan,Cardiologist,Sahyadri
+D2381,34,34,Jai Joshi,Neurologist,Ruby Hall
+D2834,58,58,Yatan Toor,Cardiologist,Apollo
+D2128,50,50,Varsha Chowdhury,Radiologist,Deenanath
+D2493,60,60,Harish Misra,Cardiologist,Sahyadri
+D2167,48,48,Finn Kulkarni,Dermatologist,Fortis
+D2997,45,45,Indali Kurian,Dermatologist,Deenanath
+D2165,58,58,Yash Wali,General Physician,Sahyadri
+D2593,53,53,Arya Grover,Dermatologist,Ruby Hall
+D2471,53,53,Janani Ravel,General Physician,Fortis
+D2174,59,58,Meghana Prashad,Neurologist,Sahyadri
+D2233,47,47,Yuvraj Mander,General Physician,Fortis
+D2323,54,54,Yashica Ben,Radiologist,Apollo
+D2201,58,57,Unni Char,General Physician,Sahyadri
+D2237,53,53,Vrishti Deshpande,Dermatologist,Apollo
+D2975,53,53,Urvashi Kade,Neurologist,Manipal
+D2862,55,55,William Mitra,General Physician,Sahyadri
+D2806,49,49,Tejas Gole,General Physician,Ruby Hall
+D2399,51,51,Shravya Bail,Neurologist,Apollo
+D2443,41,41,Zayyan Raman,Dermatologist,Deenanath
+D2176,59,59,Kavya De,Dermatologist,Deenanath
+D2374,59,59,Zaitra Agate,General Physician,Sahyadri
+D2285,49,49,Simon Sood,Orthopedic,Sahyadri
+D2507,50,50,Anika Rout,Neurologist,Apollo
+D2032,43,43,Tanish Sharaf,Dermatologist,Apollo
+D2835,57,57,Anvi Keer,Neurologist,Deenanath
+D2740,49,47,Liam Palla,Cardiologist,Ruby Hall
+D2774,46,46,Indali Hari,Dermatologist,Ruby Hall
+D2488,49,49,Mitesh Bhatnagar,Neurologist,Fortis
+D2366,56,56,Ganga Sridhar,Radiologist,Deenanath
+D2317,56,56,David Varghese,Dermatologist,Sahyadri
+D2162,58,58,Ojasvi Sehgal,General Physician,Apollo
+D2751,50,50,Wriddhish Dube,Dermatologist,Sahyadri
+D2949,44,44,Rachita Bhalla,Cardiologist,Ruby Hall
+D2303,45,45,Charita Soman,Radiologist,Sahyadri
+D2554,52,52,Tamanna Solanki,General Physician,Apollo
+D2350,45,45,Zilmil Narula,Cardiologist,Fortis
+D2057,39,39,Ekalinga Rastogi,Orthopedic,Ruby Hall
+D2772,52,52,Kalpit Mahal,General Physician,Ruby Hall
+D2470,53,53,Aarna Mann,Cardiologist,Manipal
+D2935,61,61,Oni Rajan,Cardiologist,Manipal
+D2770,48,48,Henry Bala,Dermatologist,Ruby Hall
+D2950,39,39,Krishna Viswanathan,Orthopedic,Manipal
+D2080,54,54,Rushil Mander,Radiologist,Ruby Hall
+D2448,47,47,Kiaan Dutta,Orthopedic,Sahyadri
+D2627,42,42,Anita Muni,Radiologist,Manipal
+D2070,53,53,Oni Amble,Dermatologist,Apollo
+D2363,41,41,Rohan Boase,Dermatologist,Ruby Hall
+D2628,49,49,Ekansh Ganguly,Cardiologist,Ruby Hall
+D2654,51,51,Amaira Vaidya,Radiologist,Manipal
+D2020,44,44,Advaith Gade,Cardiologist,Sahyadri
+D2920,43,43,Libni Garde,Cardiologist,Manipal
+D2251,69,69,Charles Korpal,General Physician,Manipal
+D2229,53,53,Bachittar Gulati,Neurologist,Ruby Hall
+D2723,46,46,Bhavini Rau,General Physician,Manipal
+D2186,54,54,Warhi Mander,Orthopedic,Fortis
+D2896,47,47,Neha Mall,Dermatologist,Apollo
+D2224,57,56,Girish Ravi,Radiologist,Ruby Hall
+D2102,45,45,Saksham Rai,Orthopedic,Ruby Hall
+D2204,58,58,Varenya Sinha,Orthopedic,Apollo
+D2367,49,49,Kashish Gola,Radiologist,Apollo
+D2877,52,51,Daksh Dhar,Neurologist,Deenanath
+D2644,58,58,Qadim Brar,General Physician,Ruby Hall
+D2946,43,43,Siya Muni,Cardiologist,Manipal
+D2053,60,60,Raagini Sen,Radiologist,Apollo
+D2905,54,54,Advik Ahuja,Dermatologist,Ruby Hall
+D2389,54,54,Frederick Sengupta,Cardiologist,Manipal
+D2418,62,62,Ria Kalla,Neurologist,Ruby Hall
+D2927,57,57,Janani Sehgal,Orthopedic,Apollo
+D2661,50,50,Yashodhara Ramachandran,Radiologist,Fortis
+D2460,39,39,Barkha Suri,General Physician,Sahyadri
+D2871,49,49,Darsh Sen,General Physician,Ruby Hall
+D2132,51,51,Omisha Madan,Orthopedic,Ruby Hall
+D2398,64,64,Maya Parsa,Orthopedic,Fortis
+D2796,64,64,Jyoti Lanka,Neurologist,Ruby Hall
+D2342,46,46,Saanvi Choudhury,Neurologist,Deenanath
+D2966,44,44,Yashodhara Gill,Radiologist,Deenanath
+D2135,56,56,Caleb Ghosh,Cardiologist,Fortis
+D2878,42,42,Rehaan Randhawa,Dermatologist,Fortis
+D2265,49,48,Lila Gola,Radiologist,Ruby Hall
+D2508,48,48,Zehaan Murthy,Radiologist,Deenanath
+D2170,62,62,Eta Tailor,Neurologist,Ruby Hall
+D2771,65,65,Baghyawati Sarraf,Dermatologist,Apollo
+D2430,56,56,Omisha Sharma,Cardiologist,Deenanath
+D2583,52,52,Dhriti Padmanabhan,General Physician,Manipal
+D2866,51,51,Falguni Kala,Cardiologist,Ruby Hall
+D2290,48,48,Amara Palla,Neurologist,Deenanath
+D2884,56,56,Abha Saini,Orthopedic,Apollo
+D2703,53,53,Sudiksha Barad,Dermatologist,Ruby Hall
+D2861,34,34,Kavya Chaudhary,General Physician,Manipal
+D2721,49,49,Azaan Lal,Cardiologist,Manipal
+D2743,55,55,Vivaan Pant,Cardiologist,Fortis
+D2614,52,52,Tanay Khanna,Cardiologist,Deenanath
+D2761,60,60,Isaac Raj,Dermatologist,Ruby Hall
+D2111,54,54,Zashil Pal,General Physician,Manipal
+D2025,60,60,Chandani Chadha,Cardiologist,Ruby Hall
+D2427,49,49,Chanchal Patla,Orthopedic,Fortis
+D2278,43,43,Tanish Thakur,Radiologist,Fortis
+D2479,40,40,Ishita Kapadia,Cardiologist,Ruby Hall
+D2726,64,64,Urmi Mani,General Physician,Apollo
+D2223,43,42,Alexander Deshmukh,Orthopedic,Deenanath
+D2655,58,58,Divya Solanki,Radiologist,Sahyadri
+D2266,52,52,Yahvi Sankaran,Dermatologist,Apollo
+D2526,44,44,Umang Bhalla,Orthopedic,Fortis
+D2651,63,62,Shravya Dhar,General Physician,Manipal
+D2481,61,61,Chaaya Varkey,General Physician,Deenanath
+D2957,60,60,Chandresh Sule,Radiologist,Deenanath
+D2811,58,58,Yashasvi Rajagopalan,Orthopedic,Sahyadri
+D2961,46,46,Upasna Karan,Dermatologist,Fortis
+D2943,53,52,Advika Agrawal,Radiologist,Manipal
+D2139,53,53,Indali Singh,Orthopedic,Deenanath
+D2216,49,49,Gunbir Nanda,Cardiologist,Ruby Hall
+D2280,45,44,Henry Menon,Dermatologist,Deenanath
+D2911,60,60,Gaurang Sengupta,Neurologist,Sahyadri
+D2054,51,51,Zarna Malhotra,Orthopedic,Deenanath
+D2577,52,52,Avi Shetty,Cardiologist,Sahyadri
+D2947,62,62,Jatin Ganesan,Orthopedic,Apollo
+D2148,44,44,Unni Dey,Radiologist,Manipal
+D2407,50,50,Tarak Gara,Neurologist,Ruby Hall
+D2865,44,44,Jatin Khurana,Radiologist,Fortis
+D2532,46,46,Kashvi Dayal,Radiologist,Apollo
+D2000,52,52,Sarthak Thakkar,Neurologist,Fortis
+D2013,45,45,Mohini Oommen,General Physician,Ruby Hall
+D2725,55,55,Kabir Padmanabhan,Radiologist,Ruby Hall
+D2495,45,45,Urishilla Suri,Cardiologist,Sahyadri
+D2929,42,42,Bakhshi Vala,Orthopedic,Deenanath
+D2675,58,58,Yutika Pal,Cardiologist,Apollo
+D2962,55,55,Balendra Bedi,Radiologist,Sahyadri
+D2727,53,53,Kiaan Magar,Radiologist,Apollo
+D2632,44,44,Dayita Sha,Cardiologist,Sahyadri
+D2039,50,50,Hardik Mall,Dermatologist,Apollo
+D2218,50,50,Chaaya Keer,Dermatologist,Manipal
+D2573,61,61,Zinal Ganguly,Neurologist,Fortis
+D2790,51,51,Neel Chaudhry,General Physician,Deenanath
+D2777,43,43,Chakradhar Amble,Dermatologist,Ruby Hall
+D2799,48,48,Qasim Kala,Radiologist,Sahyadri
+D2639,59,59,Rachit Samra,Dermatologist,Ruby Hall
+D2800,52,52,Ekta Dalal,Dermatologist,Fortis
+D2153,49,49,Garima Morar,General Physician,Fortis
+D2083,58,58,Jeremiah Varty,Cardiologist,Manipal
+D2882,45,45,Amol Khanna,Radiologist,Ruby Hall
+D2447,44,44,Aishani Karan,Orthopedic,Apollo
+D2310,50,50,Arya Shanker,Neurologist,Apollo
+D2090,52,52,Aayush Narula,General Physician,Ruby Hall
+D2702,47,47,Xavier Grover,Orthopedic,Fortis
+D2589,43,43,Yoshita Ramanathan,Neurologist,Deenanath
+D2775,72,72,Amaira Sarin,Neurologist,Ruby Hall
+D2193,52,52,Janya Pandit,Neurologist,Manipal
+D2354,43,43,Advay Tank,Neurologist,Manipal
+D2515,67,67,Tanmayi Contractor,Dermatologist,Manipal
+D2012,44,44,Eshana Narasimhan,Radiologist,Sahyadri
+D2487,67,66,Anjali Raj,Cardiologist,Manipal
+D2082,48,48,Umang Gera,Orthopedic,Fortis
+D2008,54,54,Nikita Chadha,Radiologist,Sahyadri
+D2166,64,62,Jacob Lad,General Physician,Deenanath
+D2633,48,48,Vincent Biswas,Orthopedic,Fortis
+D2789,41,41,Charvi Nagar,Radiologist,Fortis
+D2205,51,51,Anvi Chahal,Dermatologist,Deenanath
+D2077,44,44,Champak Sibal,Radiologist,Apollo
+D2869,51,51,Aditya Bassi,Neurologist,Fortis
+D2502,56,55,Yatan Mukherjee,Neurologist,Deenanath
+D2007,57,57,Chaitaly Tripathi,General Physician,Deenanath
+D2756,59,59,Advaith Prasad,Dermatologist,Apollo
+D2798,46,46,Anjali Purohit,Orthopedic,Ruby Hall
+D2231,49,49,Jagrati Upadhyay,Orthopedic,Fortis
+D2330,59,59,Daksha Shankar,Radiologist,Deenanath
+D2189,49,49,Benjamin Din,Cardiologist,Fortis
+D2472,68,67,Rajeshri Nagarajan,General Physician,Sahyadri
+D2597,52,52,Xavier Devan,Neurologist,Sahyadri
+D2676,57,57,Jason Acharya,Orthopedic,Deenanath
+D2872,45,45,Tanmayi Shanker,Cardiologist,Apollo
+D2735,57,57,Lopa Parsa,Dermatologist,Fortis
+D2719,49,49,Sai Dixit,Orthopedic,Apollo
+D2302,46,46,Zayan Raghavan,General Physician,Deenanath
+D2355,45,45,Lakshmi Yadav,Orthopedic,Deenanath
+D2856,44,44,Varsha Viswanathan,Orthopedic,Sahyadri
+D2434,54,54,Imaran Pall,General Physician,Ruby Hall
+D2718,55,55,Rajata Dayal,Dermatologist,Manipal
+D2106,43,43,Jagat Kala,Dermatologist,Sahyadri
+D2385,37,37,Ekavir Chawla,Neurologist,Ruby Hall
+D2938,55,55,Krisha Ganesan,Cardiologist,Deenanath
+D2297,51,51,Chakradhar Pradhan,Radiologist,Ruby Hall
+D2924,40,40,Theodore Prasad,Radiologist,Ruby Hall
+D2239,50,50,Pavani Jain,Dermatologist,Ruby Hall
+D2474,60,60,Ayush Oommen,Dermatologist,Ruby Hall
+D2965,44,44,Umang Chaudhari,Dermatologist,Fortis
+D2607,52,52,Wridesh Mahajan,Neurologist,Deenanath
+D2781,38,38,Maya Kapur,Cardiologist,Fortis
+D2147,60,60,Shaurya Shanker,Dermatologist,Apollo
+D2046,52,52,Nikita Mani,General Physician,Deenanath
+D2146,57,56,Ishwar Thakkar,Neurologist,Deenanath
+D2365,35,35,Udant Kapoor,Orthopedic,Deenanath
+D2492,46,46,Indira Sani,Cardiologist,Deenanath
+D2827,59,59,Dalbir Prabhu,General Physician,Fortis
+D2267,27,27,Jack Sarna,Radiologist,Ruby Hall
+D2801,52,52,Simon Soni,Cardiologist,Manipal
+D2425,54,54,Jasmit Bora,Dermatologist,Deenanath
+D2826,45,45,Gavin Purohit,General Physician,Sahyadri
+D2899,45,45,Vedika Gaba,Radiologist,Manipal
+D2928,50,50,Dalaja Seth,Dermatologist,Apollo
+D2509,54,54,Tripti Batra,Orthopedic,Manipal
+D2091,46,46,Aditya Parsa,General Physician,Ruby Hall
+D2760,45,45,Siddharth Sem,Orthopedic,Apollo
+D2590,53,52,Zansi Pant,General Physician,Sahyadri
+D2536,55,55,Watika Sawhney,General Physician,Deenanath
+D2986,55,55,Samarth Vig,General Physician,Apollo
+D2699,39,39,Osha Johal,General Physician,Manipal
+D2071,40,40,Xiti Aurora,Neurologist,Deenanath
+D2664,48,48,Chaman Yogi,Neurologist,Sahyadri
+D2464,54,53,Aishani Dar,Dermatologist,Apollo
+D2728,55,55,Bhavya Lal,Dermatologist,Sahyadri
+D2234,58,58,Bina Gill,Orthopedic,Manipal
+D2609,47,47,Barkha Dugal,Radiologist,Deenanath
+D2788,52,52,Qushi Edwin,Radiologist,Fortis
+D2572,40,40,Kalpit Suri,Cardiologist,Apollo
+D2681,54,54,Logan Amble,Cardiologist,Manipal
+D2050,61,61,Lekha Chacko,Dermatologist,Ruby Hall
+D2922,40,40,Jatin Cherian,Cardiologist,Apollo
+D2293,42,42,Saanvi Wagle,Cardiologist,Deenanath
+D2207,59,59,Priya Iyengar,General Physician,Apollo
+D2673,49,49,Anirudh Bora,General Physician,Deenanath
+D2612,53,53,Chaitaly Sodhi,Cardiologist,Apollo
+D2048,53,53,Urmi Lad,Dermatologist,Deenanath
+D2984,60,60,Elijah Gala,Cardiologist,Apollo
+D2510,45,45,Girik Memon,General Physician,Manipal
+D2400,50,50,Dev Buch,Orthopedic,Ruby Hall
+D2244,58,58,Radhika Bail,Cardiologist,Apollo
+D2380,56,55,Vihaan Subramaniam,Orthopedic,Ruby Hall
+D2154,57,57,Aishani Panchal,Neurologist,Deenanath
+D2138,46,46,Daksh Prasad,Dermatologist,Ruby Hall
+D2287,59,59,Riya Buch,Cardiologist,Apollo
+D2497,41,41,Lopa Nadig,Orthopedic,Sahyadri
+D2490,45,44,Siddharth Prakash,Neurologist,Sahyadri
+D2731,58,58,Manan Amble,Neurologist,Deenanath
+D2394,51,50,Hitesh Suri,Orthopedic,Sahyadri

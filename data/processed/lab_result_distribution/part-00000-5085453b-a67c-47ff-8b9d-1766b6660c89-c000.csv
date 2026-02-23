@@ -1,0 +1,31 @@
+test_type,result,report_count
+CT Scan,High Cholesterol,963
+MRI,Abnormal,1024
+Blood Test,Abnormal,1029
+X-Ray,Normal,995
+CT Scan,Normal,986
+MRI,Infection Found,1002
+ECG,Normal,1007
+CT Scan,Abnormal,1010
+X-Ray,High Cholesterol,981
+Blood Test,Normal,1000
+Blood Test,Fracture Detected,996
+ECG,High Cholesterol,1010
+CT Scan,Infection Found,1022
+MRI,High Cholesterol,965
+X-Ray,Infection Found,998
+X-Ray,Fracture Detected,1031
+Ultrasound,Normal,1002
+ECG,Infection Found,975
+Blood Test,Infection Found,1031
+Ultrasound,Infection Found,996
+ECG,Abnormal,986
+Ultrasound,High Cholesterol,1001
+ECG,Fracture Detected,970
+Ultrasound,Abnormal,1030
+MRI,Normal,1002
+Ultrasound,Fracture Detected,1010
+CT Scan,Fracture Detected,958
+MRI,Fracture Detected,1025
+Blood Test,High Cholesterol,1007
+X-Ray,Abnormal,988

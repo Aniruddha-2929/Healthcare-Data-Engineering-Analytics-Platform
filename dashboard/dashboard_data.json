@@ -1,0 +1,2212 @@
+{
+  "overview": {
+    "total_patients": 10000,
+    "total_doctors": 1000,
+    "total_visits": 50000,
+    "total_lab_reports": 30000,
+    "total_cities": 316,
+    "total_hospitals": 6
+  },
+  "gender_distribution": {
+    "M": 5019,
+    "F": 4981
+  },
+  "blood_group_distribution": {
+    "B+": 1486,
+    "O-": 1459,
+    "AB+": 1442,
+    "B-": 1442,
+    "A-": 1410,
+    "A+": 1409,
+    "O+": 1352
+  },
+  "top_cities": [
+    {
+      "city": "Ghaziabad",
+      "patient_count": 58
+    },
+    {
+      "city": "Aurangabad",
+      "patient_count": 55
+    },
+    {
+      "city": "Sultan Pur Majra",
+      "patient_count": 48
+    },
+    {
+      "city": "Nandyal",
+      "patient_count": 47
+    },
+    {
+      "city": "Bhimavaram",
+      "patient_count": 46
+    },
+    {
+      "city": "Karawal Nagar",
+      "patient_count": 44
+    },
+    {
+      "city": "Visakhapatnam",
+      "patient_count": 44
+    },
+    {
+      "city": "Tadipatri",
+      "patient_count": 43
+    },
+    {
+      "city": "Dewas",
+      "patient_count": 43
+    },
+    {
+      "city": "Patiala",
+      "patient_count": 43
+    },
+    {
+      "city": "Davanagere",
+      "patient_count": 43
+    },
+    {
+      "city": "Chennai",
+      "patient_count": 43
+    },
+    {
+      "city": "Guntur",
+      "patient_count": 42
+    },
+    {
+      "city": "Moradabad",
+      "patient_count": 42
+    },
+    {
+      "city": "Raebareli",
+      "patient_count": 42
+    }
+  ],
+  "all_cities": [
+    {
+      "city": "Ghaziabad",
+      "patient_count": 58
+    },
+    {
+      "city": "Aurangabad",
+      "patient_count": 55
+    },
+    {
+      "city": "Sultan Pur Majra",
+      "patient_count": 48
+    },
+    {
+      "city": "Nandyal",
+      "patient_count": 47
+    },
+    {
+      "city": "Bhimavaram",
+      "patient_count": 46
+    },
+    {
+      "city": "Karawal Nagar",
+      "patient_count": 44
+    },
+    {
+      "city": "Visakhapatnam",
+      "patient_count": 44
+    },
+    {
+      "city": "Tadipatri",
+      "patient_count": 43
+    },
+    {
+      "city": "Dewas",
+      "patient_count": 43
+    },
+    {
+      "city": "Patiala",
+      "patient_count": 43
+    },
+    {
+      "city": "Davanagere",
+      "patient_count": 43
+    },
+    {
+      "city": "Chennai",
+      "patient_count": 43
+    },
+    {
+      "city": "Guntur",
+      "patient_count": 42
+    },
+    {
+      "city": "Moradabad",
+      "patient_count": 42
+    },
+    {
+      "city": "Raebareli",
+      "patient_count": 42
+    },
+    {
+      "city": "Nanded",
+      "patient_count": 41
+    },
+    {
+      "city": "Tirunelveli",
+      "patient_count": 41
+    },
+    {
+      "city": "Mau",
+      "patient_count": 41
+    },
+    {
+      "city": "Pondicherry",
+      "patient_count": 41
+    },
+    {
+      "city": "Jhansi",
+      "patient_count": 40
+    },
+    {
+      "city": "Kharagpur",
+      "patient_count": 40
+    },
+    {
+      "city": "Allahabad",
+      "patient_count": 40
+    },
+    {
+      "city": "Firozabad",
+      "patient_count": 40
+    },
+    {
+      "city": "Hosur",
+      "patient_count": 40
+    },
+    {
+      "city": "Ahmedabad",
+      "patient_count": 40
+    },
+    {
+      "city": "Katni",
+      "patient_count": 39
+    },
+    {
+      "city": "Jalgaon",
+      "patient_count": 39
+    },
+    {
+      "city": "Solapur",
+      "patient_count": 39
+    },
+    {
+      "city": "Kollam",
+      "patient_count": 39
+    },
+    {
+      "city": "Kalyan-Dombivli",
+      "patient_count": 39
+    },
+    {
+      "city": "Morbi",
+      "patient_count": 39
+    },
+    {
+      "city": "Panihati",
+      "patient_count": 39
+    },
+    {
+      "city": "Jalandhar",
+      "patient_count": 39
+    },
+    {
+      "city": "Tirupati",
+      "patient_count": 38
+    },
+    {
+      "city": "Guntakal",
+      "patient_count": 38
+    },
+    {
+      "city": "Mirzapur",
+      "patient_count": 38
+    },
+    {
+      "city": "Rewa",
+      "patient_count": 38
+    },
+    {
+      "city": "Karnal",
+      "patient_count": 38
+    },
+    {
+      "city": "Panvel",
+      "patient_count": 38
+    },
+    {
+      "city": "Adoni",
+      "patient_count": 37
+    },
+    {
+      "city": "Raipur",
+      "patient_count": 37
+    },
+    {
+      "city": "Farrukhabad",
+      "patient_count": 37
+    },
+    {
+      "city": "Siwan",
+      "patient_count": 37
+    },
+    {
+      "city": "Jamshedpur",
+      "patient_count": 37
+    },
+    {
+      "city": "Bahraich",
+      "patient_count": 37
+    },
+    {
+      "city": "Orai",
+      "patient_count": 37
+    },
+    {
+      "city": "Bongaigaon",
+      "patient_count": 37
+    },
+    {
+      "city": "Raurkela Industrial Township",
+      "patient_count": 37
+    },
+    {
+      "city": "Lucknow",
+      "patient_count": 37
+    },
+    {
+      "city": "Secunderabad",
+      "patient_count": 37
+    },
+    {
+      "city": "Tadepalligudem",
+      "patient_count": 37
+    },
+    {
+      "city": "Ballia",
+      "patient_count": 37
+    },
+    {
+      "city": "Barasat",
+      "patient_count": 37
+    },
+    {
+      "city": "Pudukkottai",
+      "patient_count": 37
+    },
+    {
+      "city": "Bhubaneswar",
+      "patient_count": 36
+    },
+    {
+      "city": "Amroha",
+      "patient_count": 36
+    },
+    {
+      "city": "Kavali",
+      "patient_count": 36
+    },
+    {
+      "city": "Bhiwani",
+      "patient_count": 36
+    },
+    {
+      "city": "Tiruppur",
+      "patient_count": 36
+    },
+    {
+      "city": "Etawah",
+      "patient_count": 36
+    },
+    {
+      "city": "Pune",
+      "patient_count": 36
+    },
+    {
+      "city": "Motihari",
+      "patient_count": 36
+    },
+    {
+      "city": "South Dumdum",
+      "patient_count": 36
+    },
+    {
+      "city": "Uluberia",
+      "patient_count": 36
+    },
+    {
+      "city": "Phagwara",
+      "patient_count": 36
+    },
+    {
+      "city": "Kolhapur",
+      "patient_count": 36
+    },
+    {
+      "city": "Madanapalle",
+      "patient_count": 36
+    },
+    {
+      "city": "Dehradun",
+      "patient_count": 36
+    },
+    {
+      "city": "Rampur",
+      "patient_count": 36
+    },
+    {
+      "city": "Loni",
+      "patient_count": 36
+    },
+    {
+      "city": "Baranagar",
+      "patient_count": 36
+    },
+    {
+      "city": "Chinsurah",
+      "patient_count": 36
+    },
+    {
+      "city": "Alappuzha",
+      "patient_count": 36
+    },
+    {
+      "city": "Ramgarh",
+      "patient_count": 36
+    },
+    {
+      "city": "Vijayawada",
+      "patient_count": 36
+    },
+    {
+      "city": "Satna",
+      "patient_count": 35
+    },
+    {
+      "city": "Bokaro",
+      "patient_count": 35
+    },
+    {
+      "city": "Satara",
+      "patient_count": 35
+    },
+    {
+      "city": "Jodhpur",
+      "patient_count": 35
+    },
+    {
+      "city": "Avadi",
+      "patient_count": 35
+    },
+    {
+      "city": "Rajpur Sonarpur",
+      "patient_count": 35
+    },
+    {
+      "city": "Sikar",
+      "patient_count": 35
+    },
+    {
+      "city": "Asansol",
+      "patient_count": 35
+    },
+    {
+      "city": "Sangli-Miraj & Kupwad",
+      "patient_count": 35
+    },
+    {
+      "city": "Vellore",
+      "patient_count": 35
+    },
+    {
+      "city": "Nadiad",
+      "patient_count": 35
+    },
+    {
+      "city": "Bhiwandi",
+      "patient_count": 35
+    },
+    {
+      "city": "Dibrugarh",
+      "patient_count": 35
+    },
+    {
+      "city": "Pimpri-Chinchwad",
+      "patient_count": 35
+    },
+    {
+      "city": "Kota",
+      "patient_count": 35
+    },
+    {
+      "city": "Bettiah",
+      "patient_count": 35
+    },
+    {
+      "city": "Hajipur",
+      "patient_count": 35
+    },
+    {
+      "city": "Imphal",
+      "patient_count": 34
+    },
+    {
+      "city": "Howrah",
+      "patient_count": 34
+    },
+    {
+      "city": "Tezpur",
+      "patient_count": 34
+    },
+    {
+      "city": "Vasai-Virar",
+      "patient_count": 34
+    },
+    {
+      "city": "Shimoga",
+      "patient_count": 34
+    },
+    {
+      "city": "Amravati",
+      "patient_count": 34
+    },
+    {
+      "city": "Latur",
+      "patient_count": 34
+    },
+    {
+      "city": "Nashik",
+      "patient_count": 34
+    },
+    {
+      "city": "Madhyamgram",
+      "patient_count": 34
+    },
+    {
+      "city": "Gwalior",
+      "patient_count": 34
+    },
+    {
+      "city": "Panchkula",
+      "patient_count": 34
+    },
+    {
+      "city": "Guna",
+      "patient_count": 34
+    },
+    {
+      "city": "Ranchi",
+      "patient_count": 34
+    },
+    {
+      "city": "Nangloi Jat",
+      "patient_count": 34
+    },
+    {
+      "city": "Silchar",
+      "patient_count": 34
+    },
+    {
+      "city": "Phusro",
+      "patient_count": 34
+    },
+    {
+      "city": "Mahbubnagar",
+      "patient_count": 34
+    },
+    {
+      "city": "Sri Ganganagar",
+      "patient_count": 34
+    },
+    {
+      "city": "Kirari Suleman Nagar",
+      "patient_count": 34
+    },
+    {
+      "city": "Nagercoil",
+      "patient_count": 34
+    },
+    {
+      "city": "Ramagundam",
+      "patient_count": 34
+    },
+    {
+      "city": "Pali",
+      "patient_count": 34
+    },
+    {
+      "city": "Khandwa",
+      "patient_count": 34
+    },
+    {
+      "city": "Udaipur",
+      "patient_count": 34
+    },
+    {
+      "city": "Thrissur",
+      "patient_count": 33
+    },
+    {
+      "city": "Amritsar",
+      "patient_count": 33
+    },
+    {
+      "city": "Serampore",
+      "patient_count": 33
+    },
+    {
+      "city": "Gurgaon",
+      "patient_count": 33
+    },
+    {
+      "city": "Dindigul",
+      "patient_count": 33
+    },
+    {
+      "city": "Hospet",
+      "patient_count": 33
+    },
+    {
+      "city": "Hazaribagh",
+      "patient_count": 33
+    },
+    {
+      "city": "Mangalore",
+      "patient_count": 33
+    },
+    {
+      "city": "Ambattur",
+      "patient_count": 33
+    },
+    {
+      "city": "Mathura",
+      "patient_count": 33
+    },
+    {
+      "city": "Durg",
+      "patient_count": 33
+    },
+    {
+      "city": "Naihati",
+      "patient_count": 33
+    },
+    {
+      "city": "Karimnagar",
+      "patient_count": 33
+    },
+    {
+      "city": "Ajmer",
+      "patient_count": 33
+    },
+    {
+      "city": "Mango",
+      "patient_count": 33
+    },
+    {
+      "city": "Udupi",
+      "patient_count": 33
+    },
+    {
+      "city": "Bihar Sharif",
+      "patient_count": 33
+    },
+    {
+      "city": "Chapra",
+      "patient_count": 33
+    },
+    {
+      "city": "Karaikudi",
+      "patient_count": 33
+    },
+    {
+      "city": "Gaya",
+      "patient_count": 32
+    },
+    {
+      "city": "Delhi",
+      "patient_count": 32
+    },
+    {
+      "city": "Sambhal",
+      "patient_count": 32
+    },
+    {
+      "city": "Nagpur",
+      "patient_count": 32
+    },
+    {
+      "city": "Nellore",
+      "patient_count": 32
+    },
+    {
+      "city": "Anantapur",
+      "patient_count": 32
+    },
+    {
+      "city": "Navi Mumbai",
+      "patient_count": 32
+    },
+    {
+      "city": "Varanasi",
+      "patient_count": 32
+    },
+    {
+      "city": "Gandhinagar",
+      "patient_count": 32
+    },
+    {
+      "city": "Warangal",
+      "patient_count": 32
+    },
+    {
+      "city": "Bellary",
+      "patient_count": 32
+    },
+    {
+      "city": "Bulandshahr",
+      "patient_count": 32
+    },
+    {
+      "city": "Sirsa",
+      "patient_count": 32
+    },
+    {
+      "city": "Rajkot",
+      "patient_count": 32
+    },
+    {
+      "city": "Bidhannagar",
+      "patient_count": 32
+    },
+    {
+      "city": "Kamarhati",
+      "patient_count": 32
+    },
+    {
+      "city": "Surendranagar Dudhrej",
+      "patient_count": 32
+    },
+    {
+      "city": "Bathinda",
+      "patient_count": 32
+    },
+    {
+      "city": "Hyderabad",
+      "patient_count": 32
+    },
+    {
+      "city": "Indore",
+      "patient_count": 32
+    },
+    {
+      "city": "Cuttack",
+      "patient_count": 32
+    },
+    {
+      "city": "Eluru",
+      "patient_count": 32
+    },
+    {
+      "city": "Ambarnath",
+      "patient_count": 32
+    },
+    {
+      "city": "Anand",
+      "patient_count": 32
+    },
+    {
+      "city": "Miryalaguda",
+      "patient_count": 32
+    },
+    {
+      "city": "Belgaum",
+      "patient_count": 32
+    },
+    {
+      "city": "Gorakhpur",
+      "patient_count": 32
+    },
+    {
+      "city": "Rohtak",
+      "patient_count": 31
+    },
+    {
+      "city": "Giridih",
+      "patient_count": 31
+    },
+    {
+      "city": "Buxar",
+      "patient_count": 31
+    },
+    {
+      "city": "Kottayam",
+      "patient_count": 31
+    },
+    {
+      "city": "Madurai",
+      "patient_count": 31
+    },
+    {
+      "city": "Sambalpur",
+      "patient_count": 31
+    },
+    {
+      "city": "Parbhani",
+      "patient_count": 31
+    },
+    {
+      "city": "Saharsa",
+      "patient_count": 31
+    },
+    {
+      "city": "Mysore",
+      "patient_count": 31
+    },
+    {
+      "city": "Thiruvananthapuram",
+      "patient_count": 31
+    },
+    {
+      "city": "Bhavnagar",
+      "patient_count": 31
+    },
+    {
+      "city": "Kanpur",
+      "patient_count": 31
+    },
+    {
+      "city": "Fatehpur",
+      "patient_count": 31
+    },
+    {
+      "city": "Hapur",
+      "patient_count": 31
+    },
+    {
+      "city": "Mira-Bhayandar",
+      "patient_count": 31
+    },
+    {
+      "city": "New Delhi",
+      "patient_count": 31
+    },
+    {
+      "city": "Bhopal",
+      "patient_count": 31
+    },
+    {
+      "city": "Ratlam",
+      "patient_count": 30
+    },
+    {
+      "city": "Srikakulam",
+      "patient_count": 30
+    },
+    {
+      "city": "Bally",
+      "patient_count": 30
+    },
+    {
+      "city": "Munger",
+      "patient_count": 30
+    },
+    {
+      "city": "Muzaffarnagar",
+      "patient_count": 30
+    },
+    {
+      "city": "Pallavaram",
+      "patient_count": 30
+    },
+    {
+      "city": "Shahjahanpur",
+      "patient_count": 30
+    },
+    {
+      "city": "Jalna",
+      "patient_count": 30
+    },
+    {
+      "city": "Nizamabad",
+      "patient_count": 30
+    },
+    {
+      "city": "Malda",
+      "patient_count": 30
+    },
+    {
+      "city": "Muzaffarpur",
+      "patient_count": 30
+    },
+    {
+      "city": "Ichalkaranji",
+      "patient_count": 30
+    },
+    {
+      "city": "Haldia",
+      "patient_count": 30
+    },
+    {
+      "city": "Tiruvottiyur",
+      "patient_count": 30
+    },
+    {
+      "city": "Bikaner",
+      "patient_count": 30
+    },
+    {
+      "city": "Bhusawal",
+      "patient_count": 30
+    },
+    {
+      "city": "Agartala",
+      "patient_count": 30
+    },
+    {
+      "city": "Agra",
+      "patient_count": 30
+    },
+    {
+      "city": "Durgapur",
+      "patient_count": 30
+    },
+    {
+      "city": "Kumbakonam",
+      "patient_count": 30
+    },
+    {
+      "city": "Ahmednagar",
+      "patient_count": 30
+    },
+    {
+      "city": "Jamalpur",
+      "patient_count": 30
+    },
+    {
+      "city": "Meerut",
+      "patient_count": 29
+    },
+    {
+      "city": "Bardhaman",
+      "patient_count": 29
+    },
+    {
+      "city": "Dhanbad",
+      "patient_count": 29
+    },
+    {
+      "city": "Akola",
+      "patient_count": 29
+    },
+    {
+      "city": "Erode",
+      "patient_count": 29
+    },
+    {
+      "city": "Bhilwara",
+      "patient_count": 29
+    },
+    {
+      "city": "Sonipat",
+      "patient_count": 29
+    },
+    {
+      "city": "Ongole",
+      "patient_count": 29
+    },
+    {
+      "city": "Vadodara",
+      "patient_count": 29
+    },
+    {
+      "city": "Danapur",
+      "patient_count": 29
+    },
+    {
+      "city": "Salem",
+      "patient_count": 29
+    },
+    {
+      "city": "Yamunanagar",
+      "patient_count": 29
+    },
+    {
+      "city": "Haridwar",
+      "patient_count": 29
+    },
+    {
+      "city": "Tumkur",
+      "patient_count": 29
+    },
+    {
+      "city": "Panipat",
+      "patient_count": 29
+    },
+    {
+      "city": "Kadapa",
+      "patient_count": 29
+    },
+    {
+      "city": "Chandigarh",
+      "patient_count": 29
+    },
+    {
+      "city": "Hubli\u2013Dharwad",
+      "patient_count": 29
+    },
+    {
+      "city": "Kozhikode",
+      "patient_count": 29
+    },
+    {
+      "city": "Khora",
+      "patient_count": 29
+    },
+    {
+      "city": "Chittoor",
+      "patient_count": 29
+    },
+    {
+      "city": "Kishanganj",
+      "patient_count": 29
+    },
+    {
+      "city": "Bidar",
+      "patient_count": 29
+    },
+    {
+      "city": "Tinsukia",
+      "patient_count": 28
+    },
+    {
+      "city": "Jaipur",
+      "patient_count": 28
+    },
+    {
+      "city": "Dhule",
+      "patient_count": 28
+    },
+    {
+      "city": "Jammu",
+      "patient_count": 28
+    },
+    {
+      "city": "Purnia",
+      "patient_count": 28
+    },
+    {
+      "city": "Dharmavaram",
+      "patient_count": 28
+    },
+    {
+      "city": "Jehanabad",
+      "patient_count": 28
+    },
+    {
+      "city": "Surat",
+      "patient_count": 28
+    },
+    {
+      "city": "Gopalpur",
+      "patient_count": 28
+    },
+    {
+      "city": "Gangtok",
+      "patient_count": 28
+    },
+    {
+      "city": "Bareilly",
+      "patient_count": 28
+    },
+    {
+      "city": "Bhatpara",
+      "patient_count": 28
+    },
+    {
+      "city": "Ambala",
+      "patient_count": 28
+    },
+    {
+      "city": "Bijapur",
+      "patient_count": 28
+    },
+    {
+      "city": "Thanjavur",
+      "patient_count": 28
+    },
+    {
+      "city": "Gandhidham",
+      "patient_count": 28
+    },
+    {
+      "city": "Chandrapur",
+      "patient_count": 28
+    },
+    {
+      "city": "Thoothukudi",
+      "patient_count": 28
+    },
+    {
+      "city": "Noida",
+      "patient_count": 28
+    },
+    {
+      "city": "Unnao",
+      "patient_count": 27
+    },
+    {
+      "city": "Amaravati",
+      "patient_count": 27
+    },
+    {
+      "city": "Gudivada",
+      "patient_count": 27
+    },
+    {
+      "city": "Suryapet",
+      "patient_count": 27
+    },
+    {
+      "city": "Shimla",
+      "patient_count": 27
+    },
+    {
+      "city": "Mumbai",
+      "patient_count": 27
+    },
+    {
+      "city": "Jorhat",
+      "patient_count": 27
+    },
+    {
+      "city": "Rourkela",
+      "patient_count": 27
+    },
+    {
+      "city": "Aligarh",
+      "patient_count": 27
+    },
+    {
+      "city": "Nagaon",
+      "patient_count": 27
+    },
+    {
+      "city": "Jamnagar",
+      "patient_count": 27
+    },
+    {
+      "city": "Hindupur",
+      "patient_count": 27
+    },
+    {
+      "city": "Bharatpur",
+      "patient_count": 27
+    },
+    {
+      "city": "Alwar",
+      "patient_count": 27
+    },
+    {
+      "city": "Medininagar",
+      "patient_count": 27
+    },
+    {
+      "city": "Korba",
+      "patient_count": 27
+    },
+    {
+      "city": "Bangalore",
+      "patient_count": 27
+    },
+    {
+      "city": "Kurnool",
+      "patient_count": 27
+    },
+    {
+      "city": "Jaunpur",
+      "patient_count": 26
+    },
+    {
+      "city": "Anantapuram",
+      "patient_count": 26
+    },
+    {
+      "city": "Kakinada",
+      "patient_count": 26
+    },
+    {
+      "city": "Bhilai",
+      "patient_count": 26
+    },
+    {
+      "city": "Begusarai",
+      "patient_count": 26
+    },
+    {
+      "city": "Machilipatnam",
+      "patient_count": 26
+    },
+    {
+      "city": "Maheshtala",
+      "patient_count": 26
+    },
+    {
+      "city": "Ozhukarai",
+      "patient_count": 26
+    },
+    {
+      "city": "Jabalpur",
+      "patient_count": 26
+    },
+    {
+      "city": "Aizawl",
+      "patient_count": 26
+    },
+    {
+      "city": "Bhind",
+      "patient_count": 26
+    },
+    {
+      "city": "Bhagalpur",
+      "patient_count": 26
+    },
+    {
+      "city": "Tiruchirappalli",
+      "patient_count": 25
+    },
+    {
+      "city": "Guwahati",
+      "patient_count": 25
+    },
+    {
+      "city": "Sagar",
+      "patient_count": 25
+    },
+    {
+      "city": "Proddatur",
+      "patient_count": 25
+    },
+    {
+      "city": "Bhalswa Jahangir Pur",
+      "patient_count": 25
+    },
+    {
+      "city": "Gulbarga",
+      "patient_count": 25
+    },
+    {
+      "city": "Srinagar",
+      "patient_count": 25
+    },
+    {
+      "city": "Katihar",
+      "patient_count": 25
+    },
+    {
+      "city": "Ludhiana",
+      "patient_count": 25
+    },
+    {
+      "city": "Kolkata",
+      "patient_count": 25
+    },
+    {
+      "city": "Singrauli",
+      "patient_count": 24
+    },
+    {
+      "city": "Junagadh",
+      "patient_count": 24
+    },
+    {
+      "city": "Berhampur",
+      "patient_count": 24
+    },
+    {
+      "city": "Deoghar",
+      "patient_count": 24
+    },
+    {
+      "city": "Ulhasnagar",
+      "patient_count": 24
+    },
+    {
+      "city": "Berhampore",
+      "patient_count": 24
+    },
+    {
+      "city": "Coimbatore",
+      "patient_count": 24
+    },
+    {
+      "city": "Arrah",
+      "patient_count": 24
+    },
+    {
+      "city": "Siliguri",
+      "patient_count": 24
+    },
+    {
+      "city": "Faridabad",
+      "patient_count": 24
+    },
+    {
+      "city": "Burhanpur",
+      "patient_count": 24
+    },
+    {
+      "city": "Kochi",
+      "patient_count": 23
+    },
+    {
+      "city": "Kulti",
+      "patient_count": 23
+    },
+    {
+      "city": "Vijayanagaram",
+      "patient_count": 23
+    },
+    {
+      "city": "Dehri",
+      "patient_count": 23
+    },
+    {
+      "city": "Sasaram",
+      "patient_count": 23
+    },
+    {
+      "city": "Malegaon",
+      "patient_count": 22
+    },
+    {
+      "city": "Mehsana",
+      "patient_count": 22
+    },
+    {
+      "city": "Thane",
+      "patient_count": 22
+    },
+    {
+      "city": "Khammam",
+      "patient_count": 22
+    },
+    {
+      "city": "Patna",
+      "patient_count": 21
+    },
+    {
+      "city": "Ujjain",
+      "patient_count": 21
+    },
+    {
+      "city": "Saharanpur",
+      "patient_count": 21
+    },
+    {
+      "city": "Shivpuri",
+      "patient_count": 21
+    },
+    {
+      "city": "Narasaraopet",
+      "patient_count": 21
+    },
+    {
+      "city": "North Dumdum",
+      "patient_count": 20
+    },
+    {
+      "city": "Tenali",
+      "patient_count": 20
+    },
+    {
+      "city": "Morena",
+      "patient_count": 20
+    },
+    {
+      "city": "Rajahmundry",
+      "patient_count": 19
+    },
+    {
+      "city": "Raiganj",
+      "patient_count": 19
+    },
+    {
+      "city": "Darbhanga",
+      "patient_count": 19
+    },
+    {
+      "city": "Raichur",
+      "patient_count": 19
+    },
+    {
+      "city": "Bilaspur",
+      "patient_count": 18
+    }
+  ],
+  "specialization_distribution": {
+    "Dermatologist": 176,
+    "General Physician": 175,
+    "Orthopedic": 174,
+    "Neurologist": 168,
+    "Cardiologist": 166,
+    "Radiologist": 141
+  },
+  "hospital_distribution": {
+    "Ruby Hall": 183,
+    "Apollo": 183,
+    "Manipal": 179,
+    "Deenanath": 170,
+    "Sahyadri": 147,
+    "Fortis": 138
+  },
+  "visit_type_distribution": {
+    "Emergency": 16747,
+    "Diagnostic": 16636,
+    "Consultation": 16617
+  },
+  "visit_reason_analysis": [
+    {
+      "reason": "Diabetes Checkup",
+      "total_visits": 8451,
+      "unique_patients": 5754
+    },
+    {
+      "reason": "Fever",
+      "total_visits": 8358,
+      "unique_patients": 5674
+    },
+    {
+      "reason": "Headache",
+      "total_visits": 8352,
+      "unique_patients": 5628
+    },
+    {
+      "reason": "Chest Pain",
+      "total_visits": 8351,
+      "unique_patients": 5650
+    },
+    {
+      "reason": "Follow-up",
+      "total_visits": 8277,
+      "unique_patients": 5638
+    },
+    {
+      "reason": "Back Pain",
+      "total_visits": 8211,
+      "unique_patients": 5639
+    }
+  ],
+  "doctor_summary": [
+    {
+      "doctor_id": "D2775",
+      "total_visits": 72,
+      "unique_patients": 72,
+      "name": "Amaira Sarin",
+      "specialization": "Neurologist",
+      "hospital": "Ruby Hall"
+    },
+    {
+      "doctor_id": "D2416",
+      "total_visits": 71,
+      "unique_patients": 70,
+      "name": "Owen Raval",
+      "specialization": "Dermatologist",
+      "hospital": "Ruby Hall"
+    },
+    {
+      "doctor_id": "D2243",
+      "total_visits": 70,
+      "unique_patients": 70,
+      "name": "Nicholas Hegde",
+      "specialization": "General Physician",
+      "hospital": "Ruby Hall"
+    },
+    {
+      "doctor_id": "D2031",
+      "total_visits": 69,
+      "unique_patients": 69,
+      "name": "Hemang Chopra",
+      "specialization": "Orthopedic",
+      "hospital": "Manipal"
+    },
+    {
+      "doctor_id": "D2251",
+      "total_visits": 69,
+      "unique_patients": 69,
+      "name": "Charles Korpal",
+      "specialization": "General Physician",
+      "hospital": "Manipal"
+    },
+    {
+      "doctor_id": "D2379",
+      "total_visits": 68,
+      "unique_patients": 68,
+      "name": "Udyati Thakur",
+      "specialization": "Cardiologist",
+      "hospital": "Deenanath"
+    },
+    {
+      "doctor_id": "D2952",
+      "total_visits": 68,
+      "unique_patients": 67,
+      "name": "Urishilla Sarma",
+      "specialization": "Orthopedic",
+      "hospital": "Sahyadri"
+    },
+    {
+      "doctor_id": "D2462",
+      "total_visits": 68,
+      "unique_patients": 67,
+      "name": "Pranit Bassi",
+      "specialization": "General Physician",
+      "hospital": "Fortis"
+    },
+    {
+      "doctor_id": "D2472",
+      "total_visits": 68,
+      "unique_patients": 67,
+      "name": "Rajeshri Nagarajan",
+      "specialization": "General Physician",
+      "hospital": "Sahyadri"
+    },
+    {
+      "doctor_id": "D2515",
+      "total_visits": 67,
+      "unique_patients": 67,
+      "name": "Tanmayi Contractor",
+      "specialization": "Dermatologist",
+      "hospital": "Manipal"
+    },
+    {
+      "doctor_id": "D2487",
+      "total_visits": 67,
+      "unique_patients": 66,
+      "name": "Anjali Raj",
+      "specialization": "Cardiologist",
+      "hospital": "Manipal"
+    },
+    {
+      "doctor_id": "D2340",
+      "total_visits": 66,
+      "unique_patients": 66,
+      "name": "Fariq Lall",
+      "specialization": "Cardiologist",
+      "hospital": "Fortis"
+    },
+    {
+      "doctor_id": "D2823",
+      "total_visits": 66,
+      "unique_patients": 65,
+      "name": "Vedhika Dey",
+      "specialization": "Orthopedic",
+      "hospital": "Ruby Hall"
+    },
+    {
+      "doctor_id": "D2314",
+      "total_visits": 66,
+      "unique_patients": 66,
+      "name": "Daksh Vig",
+      "specialization": "Neurologist",
+      "hospital": "Ruby Hall"
+    },
+    {
+      "doctor_id": "D2424",
+      "total_visits": 65,
+      "unique_patients": 65,
+      "name": "Rachita Balay",
+      "specialization": "Radiologist",
+      "hospital": "Deenanath"
+    },
+    {
+      "doctor_id": "D2328",
+      "total_visits": 65,
+      "unique_patients": 65,
+      "name": "Rajata Sem",
+      "specialization": "Radiologist",
+      "hospital": "Fortis"
+    },
+    {
+      "doctor_id": "D2551",
+      "total_visits": 65,
+      "unique_patients": 65,
+      "name": "Finn Chanda",
+      "specialization": "Neurologist",
+      "hospital": "Apollo"
+    },
+    {
+      "doctor_id": "D2979",
+      "total_visits": 65,
+      "unique_patients": 65,
+      "name": "Harshil Suresh",
+      "specialization": "Neurologist",
+      "hospital": "Sahyadri"
+    },
+    {
+      "doctor_id": "D2706",
+      "total_visits": 65,
+      "unique_patients": 63,
+      "name": "Robert Rao",
+      "specialization": "Dermatologist",
+      "hospital": "Ruby Hall"
+    },
+    {
+      "doctor_id": "D2269",
+      "total_visits": 65,
+      "unique_patients": 65,
+      "name": "Vedhika Atwal",
+      "specialization": "Cardiologist",
+      "hospital": "Deenanath"
+    }
+  ],
+  "hospital_visits": [
+    {
+      "hospital": "Ruby Hall",
+      "total_visits": 9197,
+      "unique_patients": 6022,
+      "active_doctors": 183
+    },
+    {
+      "hospital": "Apollo",
+      "total_visits": 9147,
+      "unique_patients": 6027,
+      "active_doctors": 183
+    },
+    {
+      "hospital": "Manipal",
+      "total_visits": 8974,
+      "unique_patients": 5924,
+      "active_doctors": 179
+    },
+    {
+      "hospital": "Deenanath",
+      "total_visits": 8551,
+      "unique_patients": 5761,
+      "active_doctors": 170
+    },
+    {
+      "hospital": "Sahyadri",
+      "total_visits": 7249,
+      "unique_patients": 5152,
+      "active_doctors": 147
+    },
+    {
+      "hospital": "Fortis",
+      "total_visits": 6882,
+      "unique_patients": 4954,
+      "active_doctors": 138
+    }
+  ],
+  "lab_result_distribution": [
+    {
+      "test_type": "CT Scan",
+      "result": "High Cholesterol",
+      "report_count": 963
+    },
+    {
+      "test_type": "MRI",
+      "result": "Abnormal",
+      "report_count": 1024
+    },
+    {
+      "test_type": "Blood Test",
+      "result": "Abnormal",
+      "report_count": 1029
+    },
+    {
+      "test_type": "X-Ray",
+      "result": "Normal",
+      "report_count": 995
+    },
+    {
+      "test_type": "CT Scan",
+      "result": "Normal",
+      "report_count": 986
+    },
+    {
+      "test_type": "MRI",
+      "result": "Infection Found",
+      "report_count": 1002
+    },
+    {
+      "test_type": "ECG",
+      "result": "Normal",
+      "report_count": 1007
+    },
+    {
+      "test_type": "CT Scan",
+      "result": "Abnormal",
+      "report_count": 1010
+    },
+    {
+      "test_type": "X-Ray",
+      "result": "High Cholesterol",
+      "report_count": 981
+    },
+    {
+      "test_type": "Blood Test",
+      "result": "Normal",
+      "report_count": 1000
+    },
+    {
+      "test_type": "Blood Test",
+      "result": "Fracture Detected",
+      "report_count": 996
+    },
+    {
+      "test_type": "ECG",
+      "result": "High Cholesterol",
+      "report_count": 1010
+    },
+    {
+      "test_type": "CT Scan",
+      "result": "Infection Found",
+      "report_count": 1022
+    },
+    {
+      "test_type": "MRI",
+      "result": "High Cholesterol",
+      "report_count": 965
+    },
+    {
+      "test_type": "X-Ray",
+      "result": "Infection Found",
+      "report_count": 998
+    },
+    {
+      "test_type": "X-Ray",
+      "result": "Fracture Detected",
+      "report_count": 1031
+    },
+    {
+      "test_type": "Ultrasound",
+      "result": "Normal",
+      "report_count": 1002
+    },
+    {
+      "test_type": "ECG",
+      "result": "Infection Found",
+      "report_count": 975
+    },
+    {
+      "test_type": "Blood Test",
+      "result": "Infection Found",
+      "report_count": 1031
+    },
+    {
+      "test_type": "Ultrasound",
+      "result": "Infection Found",
+      "report_count": 996
+    },
+    {
+      "test_type": "ECG",
+      "result": "Abnormal",
+      "report_count": 986
+    },
+    {
+      "test_type": "Ultrasound",
+      "result": "High Cholesterol",
+      "report_count": 1001
+    },
+    {
+      "test_type": "ECG",
+      "result": "Fracture Detected",
+      "report_count": 970
+    },
+    {
+      "test_type": "Ultrasound",
+      "result": "Abnormal",
+      "report_count": 1030
+    },
+    {
+      "test_type": "MRI",
+      "result": "Normal",
+      "report_count": 1002
+    },
+    {
+      "test_type": "Ultrasound",
+      "result": "Fracture Detected",
+      "report_count": 1010
+    },
+    {
+      "test_type": "CT Scan",
+      "result": "Fracture Detected",
+      "report_count": 958
+    },
+    {
+      "test_type": "MRI",
+      "result": "Fracture Detected",
+      "report_count": 1025
+    },
+    {
+      "test_type": "Blood Test",
+      "result": "High Cholesterol",
+      "report_count": 1007
+    },
+    {
+      "test_type": "X-Ray",
+      "result": "Abnormal",
+      "report_count": 988
+    }
+  ],
+  "lab_test_types": {
+    "Blood Test": 5063,
+    "Ultrasound": 5039,
+    "MRI": 5018,
+    "X-Ray": 4993,
+    "ECG": 4948,
+    "CT Scan": 4939
+  },
+  "lab_results_overview": {
+    "Abnormal": 6067,
+    "Infection Found": 6024,
+    "Normal": 5992,
+    "Fracture Detected": 5990,
+    "High Cholesterol": 5927
+  },
+  "recent_patients": [
+    {
+      "patient_id": "P100000",
+      "name": "Daniel Lala",
+      "gender": "M",
+      "dob": "1996-01-10",
+      "blood_group": "AB+",
+      "city": "Baranagar"
+    },
+    {
+      "patient_id": "P100001",
+      "name": "Abeer Sridhar",
+      "gender": "F",
+      "dob": "1994-10-29",
+      "blood_group": "O+",
+      "city": "Narasaraopet"
+    },
+    {
+      "patient_id": "P100002",
+      "name": "Nihal Kumer",
+      "gender": "M",
+      "dob": "1963-08-06",
+      "blood_group": "O+",
+      "city": "Kochi"
+    },
+    {
+      "patient_id": "P100003",
+      "name": "Arya Bhagat",
+      "gender": "M",
+      "dob": "1953-03-22",
+      "blood_group": "O+",
+      "city": "Pimpri-Chinchwad"
+    },
+    {
+      "patient_id": "P100004",
+      "name": "Vrinda Rama",
+      "gender": "F",
+      "dob": "1972-12-04",
+      "blood_group": "O+",
+      "city": "Serampore"
+    },
+    {
+      "patient_id": "P100005",
+      "name": "Arya Pillai",
+      "gender": "F",
+      "dob": "1957-03-26",
+      "blood_group": "A+",
+      "city": "Khammam"
+    },
+    {
+      "patient_id": "P100006",
+      "name": "Tanvi Rege",
+      "gender": "F",
+      "dob": "1992-02-20",
+      "blood_group": "A-",
+      "city": "Bhusawal"
+    },
+    {
+      "patient_id": "P100007",
+      "name": "Bishakha Brahmbhatt",
+      "gender": "M",
+      "dob": "1974-07-01",
+      "blood_group": "B-",
+      "city": "Sagar"
+    },
+    {
+      "patient_id": "P100008",
+      "name": "Chakradhar Chaudhuri",
+      "gender": "F",
+      "dob": "1942-03-11",
+      "blood_group": "O+",
+      "city": "Guwahati"
+    },
+    {
+      "patient_id": "P100009",
+      "name": "Ikbal Hora",
+      "gender": "M",
+      "dob": "1969-11-28",
+      "blood_group": "O+",
+      "city": "Kolkata"
+    },
+    {
+      "patient_id": "P100010",
+      "name": "Hemangini Zachariah",
+      "gender": "M",
+      "dob": "1988-04-01",
+      "blood_group": "O-",
+      "city": "Hyderabad"
+    },
+    {
+      "patient_id": "P100011",
+      "name": "Zehaan Kakar",
+      "gender": "M",
+      "dob": "1949-08-10",
+      "blood_group": "B-",
+      "city": "Ambarnath"
+    },
+    {
+      "patient_id": "P100012",
+      "name": "Forum Shukla",
+      "gender": "F",
+      "dob": "2011-06-30",
+      "blood_group": "AB+",
+      "city": "Udupi"
+    },
+    {
+      "patient_id": "P100013",
+      "name": "Agastya Kibe",
+      "gender": "M",
+      "dob": "1997-08-11",
+      "blood_group": "B-",
+      "city": "Nellore"
+    },
+    {
+      "patient_id": "P100014",
+      "name": "Ethan Om",
+      "gender": "F",
+      "dob": "2006-04-17",
+      "blood_group": "B+",
+      "city": "Ludhiana"
+    },
+    {
+      "patient_id": "P100015",
+      "name": "Lakshit Mannan",
+      "gender": "M",
+      "dob": "2023-06-21",
+      "blood_group": "AB+",
+      "city": "Tenali"
+    },
+    {
+      "patient_id": "P100016",
+      "name": "Waida Ben",
+      "gender": "F",
+      "dob": "1954-05-22",
+      "blood_group": "A-",
+      "city": "Khammam"
+    },
+    {
+      "patient_id": "P100017",
+      "name": "Hitesh Srinivasan",
+      "gender": "F",
+      "dob": "2018-07-10",
+      "blood_group": "B+",
+      "city": "Mahbubnagar"
+    },
+    {
+      "patient_id": "P100018",
+      "name": "Daniel Shroff",
+      "gender": "M",
+      "dob": "1959-09-30",
+      "blood_group": "O-",
+      "city": "Panihati"
+    },
+    {
+      "patient_id": "P100019",
+      "name": "Isaiah Lad",
+      "gender": "M",
+      "dob": "2011-03-10",
+      "blood_group": "O+",
+      "city": "Amaravati"
+    },
+    {
+      "patient_id": "P100020",
+      "name": "Vansha Prabhakar",
+      "gender": "F",
+      "dob": "2000-05-19",
+      "blood_group": "A+",
+      "city": "Kurnool"
+    },
+    {
+      "patient_id": "P100021",
+      "name": "Praneel Bath",
+      "gender": "F",
+      "dob": "1997-11-04",
+      "blood_group": "AB+",
+      "city": "Farrukhabad"
+    },
+    {
+      "patient_id": "P100022",
+      "name": "Nilima Chopra",
+      "gender": "F",
+      "dob": "2014-08-09",
+      "blood_group": "AB+",
+      "city": "Guwahati"
+    },
+    {
+      "patient_id": "P100023",
+      "name": "Yachana Barman",
+      "gender": "M",
+      "dob": "1946-04-08",
+      "blood_group": "A-",
+      "city": "Shahjahanpur"
+    },
+    {
+      "patient_id": "P100024",
+      "name": "Balendra Kale",
+      "gender": "F",
+      "dob": "1948-09-01",
+      "blood_group": "AB+",
+      "city": "Navi Mumbai"
+    },
+    {
+      "patient_id": "P100025",
+      "name": "Robert Rama",
+      "gender": "F",
+      "dob": "1994-02-10",
+      "blood_group": "B+",
+      "city": "Tezpur"
+    },
+    {
+      "patient_id": "P100026",
+      "name": "Ati Kade",
+      "gender": "F",
+      "dob": "1950-06-15",
+      "blood_group": "O-",
+      "city": "Haridwar"
+    },
+    {
+      "patient_id": "P100027",
+      "name": "Urvashi Thakkar",
+      "gender": "M",
+      "dob": "1999-07-26",
+      "blood_group": "A+",
+      "city": "Vellore"
+    },
+    {
+      "patient_id": "P100028",
+      "name": "Alka Sharma",
+      "gender": "M",
+      "dob": "1936-05-01",
+      "blood_group": "B+",
+      "city": "Shimla"
+    },
+    {
+      "patient_id": "P100029",
+      "name": "Hemal Choudhury",
+      "gender": "M",
+      "dob": "1976-10-09",
+      "blood_group": "O-",
+      "city": "Guwahati"
+    },
+    {
+      "patient_id": "P100030",
+      "name": "Sudiksha Hayre",
+      "gender": "F",
+      "dob": "2004-03-12",
+      "blood_group": "O+",
+      "city": "Phusro"
+    },
+    {
+      "patient_id": "P100031",
+      "name": "Parth Pathak",
+      "gender": "F",
+      "dob": "2023-05-24",
+      "blood_group": "O+",
+      "city": "Sikar"
+    },
+    {
+      "patient_id": "P100032",
+      "name": "Dayita Varghese",
+      "gender": "F",
+      "dob": "1949-08-25",
+      "blood_group": "AB+",
+      "city": "Machilipatnam"
+    },
+    {
+      "patient_id": "P100033",
+      "name": "Arjun Bajaj",
+      "gender": "M",
+      "dob": "2024-02-28",
+      "blood_group": "O-",
+      "city": "Nagpur"
+    },
+    {
+      "patient_id": "P100034",
+      "name": "Meera Gaba",
+      "gender": "M",
+      "dob": "1999-10-20",
+      "blood_group": "O-",
+      "city": "Ahmedabad"
+    },
+    {
+      "patient_id": "P100035",
+      "name": "Qushi Dutt",
+      "gender": "F",
+      "dob": "1955-04-13",
+      "blood_group": "O+",
+      "city": "Nangloi Jat"
+    },
+    {
+      "patient_id": "P100036",
+      "name": "Tripti Dara",
+      "gender": "F",
+      "dob": "1948-06-16",
+      "blood_group": "O-",
+      "city": "Adoni"
+    },
+    {
+      "patient_id": "P100037",
+      "name": "Ekanta Sarkar",
+      "gender": "F",
+      "dob": "1958-02-01",
+      "blood_group": "B+",
+      "city": "Aurangabad"
+    },
+    {
+      "patient_id": "P100038",
+      "name": "Pushti Garg",
+      "gender": "F",
+      "dob": "2017-03-03",
+      "blood_group": "O-",
+      "city": "Jalgaon"
+    },
+    {
+      "patient_id": "P100039",
+      "name": "Waida Chad",
+      "gender": "M",
+      "dob": "1942-04-10",
+      "blood_group": "B+",
+      "city": "Sonipat"
+    },
+    {
+      "patient_id": "P100040",
+      "name": "Anita Puri",
+      "gender": "M",
+      "dob": "1992-11-26",
+      "blood_group": "A-",
+      "city": "Sambalpur"
+    },
+    {
+      "patient_id": "P100041",
+      "name": "Utkarsh Rattan",
+      "gender": "F",
+      "dob": "2002-02-19",
+      "blood_group": "O-",
+      "city": "Farrukhabad"
+    },
+    {
+      "patient_id": "P100042",
+      "name": "Gauri Bhakta",
+      "gender": "F",
+      "dob": "1947-02-28",
+      "blood_group": "O+",
+      "city": "Erode"
+    },
+    {
+      "patient_id": "P100043",
+      "name": "Noah Dewan",
+      "gender": "M",
+      "dob": "1941-03-20",
+      "blood_group": "AB+",
+      "city": "Agartala"
+    },
+    {
+      "patient_id": "P100044",
+      "name": "Inaya Minhas",
+      "gender": "F",
+      "dob": "2021-02-12",
+      "blood_group": "O-",
+      "city": "Shimoga"
+    },
+    {
+      "patient_id": "P100045",
+      "name": "Jagdish Balay",
+      "gender": "F",
+      "dob": "1937-04-05",
+      "blood_group": "O-",
+      "city": "Kottayam"
+    },
+    {
+      "patient_id": "P100046",
+      "name": "Teerth Sundaram",
+      "gender": "F",
+      "dob": "1971-12-13",
+      "blood_group": "A+",
+      "city": "Siwan"
+    },
+    {
+      "patient_id": "P100047",
+      "name": "Bimala Dugar",
+      "gender": "F",
+      "dob": "1990-06-06",
+      "blood_group": "AB+",
+      "city": "Satara"
+    },
+    {
+      "patient_id": "P100048",
+      "name": "Chameli Guha",
+      "gender": "F",
+      "dob": "2002-04-21",
+      "blood_group": "O-",
+      "city": "North Dumdum"
+    },
+    {
+      "patient_id": "P100049",
+      "name": "Mahika Dewan",
+      "gender": "M",
+      "dob": "1983-11-04",
+      "blood_group": "A+",
+      "city": "Srikakulam"
+    }
+  ],
+  "monthly_visits": {
+    "2023-02": 849,
+    "2023-03": 1462,
+    "2023-04": 1356,
+    "2023-05": 1405,
+    "2023-06": 1352,
+    "2023-07": 1434,
+    "2023-08": 1369,
+    "2023-09": 1384,
+    "2023-10": 1408,
+    "2023-11": 1366,
+    "2023-12": 1402,
+    "2024-01": 1449,
+    "2024-02": 1240,
+    "2024-03": 1341,
+    "2024-04": 1292,
+    "2024-05": 1391,
+    "2024-06": 1333,
+    "2024-07": 1466,
+    "2024-08": 1414,
+    "2024-09": 1403,
+    "2024-10": 1468,
+    "2024-11": 1340,
+    "2024-12": 1364,
+    "2025-01": 1420,
+    "2025-02": 1360,
+    "2025-03": 1441,
+    "2025-04": 1398,
+    "2025-05": 1445,
+    "2025-06": 1390,
+    "2025-07": 1380,
+    "2025-08": 1422,
+    "2025-09": 1362,
+    "2025-10": 1405,
+    "2025-11": 1448,
+    "2025-12": 1415,
+    "2026-01": 1407,
+    "2026-02": 419
+  }
+}
